@@ -79,7 +79,10 @@
             "deadline": "2025-05-05T17:00:00+08:00",
             "website": "https://admission.iiis.tsinghua.edu.cn/appinfo.php",
             "tags": [
-                "TOP2"
+                "985",
+                "211",
+                "TOP2",
+                "C9"
             ]
         },
         {
@@ -89,7 +92,10 @@
             "deadline": "2025-04-26T00:00:00+08:00",
             "website": "https://cfins.au.tsinghua.edu.cn/",
             "tags": [
-                "TOP2"
+                "985",
+                "211",
+                "TOP2",
+                "C9"
             ]
         },
         {
@@ -129,7 +135,10 @@
             "deadline": "2025-06-20T23:59:00+08:00",
             "website": "https://www.ece.pku.edu.cn/info/1027/2923.htm",
             "tags": [
-                "TOP2"
+                "985",
+                "211",
+                "TOP2",
+                "C9"
             ]
         },
         {
@@ -139,7 +148,7 @@
             "deadline": "2025-05-08T00:00:00+08:00",
             "website": "https://admissions.sii.edu.cn/recruit_students/login",
             "tags": [
-                "四非"
+                "联培"
             ]
         }
     ],
