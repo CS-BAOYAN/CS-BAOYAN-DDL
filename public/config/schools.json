@@ -10,6 +10,18 @@
                 "TOP2"
             ]
         },
+         {
+            "name": "南京大学",
+            "institute": "南大AI lamda实验室",
+            "description": "南大AI lamda实验室",
+            "deadline": "2025-06-01T00:00:00+08:00",
+            "website": "https://www.lamda.nju.edu.cn/recruit-2026/recruit-2026.html",
+            "tags": [
+                "985",
+                "华五",
+                "C9",
+            ]
+        },
         {
             "name": "香港中文大学（深圳）",
             "institute": "数据科学学院",
