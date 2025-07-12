@@ -2237,6 +2237,51 @@
                 "211"
             ],
             "province": ""
+        },
+        {
+            "name": "大连理工大学",
+            "institute": "软件学院",
+            "description": "入选研学营的学生餐食及营服统一安排，费用全免",
+            "deadline": "2025-7-1212:00:00+08:00",
+            "website": "https://ss.dlut.edu.cn/info/1321/27481.htm",
+            "tags": [
+                "985"
+            ],
+            "province": ""
+        },
+        {
+            "name": "北京理工大学",
+            "institute": "前沿交叉科学院",
+            "description": "线上",
+            "deadline": "2025-07-15T00:00:00+08:00",
+            "website": "https://sis.bit.edu.cn/tzgg/4af77b67dabb48cd92f115b69f6a1cc3.htm?sessionid=-208621919",
+            "tags": [
+                "985",
+                "211"
+            ],
+            "province": ""
+        },
+        {
+            "name": "南京理工大学",
+            "institute": "网络空间安全学院",
+            "description": "_No response_",
+            "deadline": "2025-07-08T00:00:00+08:00",
+            "website": "https://mp.weixin.qq.com/s/qpSP5_z1tOPGYw_vi9uP0g?click_id=1",
+            "tags": [
+                "211"
+            ],
+            "province": ""
+        },
+        {
+            "name": "西安电子科技大学",
+            "institute": "计算机科学与技术学院",
+            "description": "预推免",
+            "deadline": "2025-09-10T17:00:00+08:00",
+            "website": "https://cs.xidian.edu.cn/info/1003/21494.htm",
+            "tags": [
+                "211"
+            ],
+            "province": ""
         }
     ],
     "camp2024": [
