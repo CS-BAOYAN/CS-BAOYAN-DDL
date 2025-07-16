@@ -2295,6 +2295,72 @@
                 "联培"
             ],
             "province": ""
+        },
+        {
+            "name": "南方科技大学",
+            "institute": "统计与数据科学系",
+            "description": "预推免\n报考“081200 计算机科学与技术”，笔试科目为数据结构和机器学习；\n费用说明：预推免活动暂定以线下方式举行。我系将为异地学校营员提供预推免期间在深圳的免费食宿。最终在国家推免系统中确定录取的考生，以及能够提供高校贫困生认定凭证的家庭经济困难外地考生，可报销往返深圳的路费（最高不超过高铁二等座票价）。深圳地区高校考生原则上仅提供免费用餐，不安排住宿。",
+            "deadline": "2025-08-15T16:00:00+08:00",
+            "website": "https://stat-ds.sustech.edu.cn/notice/388.html",
+            "tags": [
+                "双非"
+            ],
+            "province": ""
+        },
+        {
+            "name": "华北电力大学",
+            "institute": "控制与计算机工程学院",
+            "description": "本次暑期学术交流活动不收取任何费用，学生饮食、住宿、交通费用自理，参加交流活动期间，学生安全由其本人负责",
+            "deadline": "2025-07-15T12:00:00+08:00",
+            "website": "https://cce.ncepu.edu.cn/tztg1/c00a33d488684101b1f553a37c4b2e50.htm",
+            "tags": [
+                "211"
+            ],
+            "province": ""
+        },
+        {
+            "name": "南京邮电大学",
+            "institute": "物联网学院",
+            "description": "线上",
+            "deadline": "2025-07-19T17:00:00+08:00",
+            "website": "https://ciot.njupt.edu.cn/2025/0712/c10653a287235/page.htm",
+            "tags": [
+                "双非"
+            ],
+            "province": ""
+        },
+        {
+            "name": "暨南大学",
+            "institute": "网络空间安全学院",
+            "description": "线上",
+            "deadline": "2025-07-26T00:00:00+08:00",
+            "website": "https://cybsec.jnu.edu.cn/2025/0714/c39579a840444/page.htm",
+            "tags": [
+                "211"
+            ],
+            "province": ""
+        },
+        {
+            "name": "西安电子科技大学",
+            "institute": "网络与信息安全学院",
+            "description": "考生根据学院推免生接收复试工作安排，预报名系统导师审核为“通过”后，参加学院、导师组织的复试考核。考核时间预计9月下旬进行",
+            "deadline": "2025-09-26T00:00:00+08:00",
+            "website": "https://ce.xidian.edu.cn/info/1324/14383.htm",
+            "tags": [
+                "211"
+            ],
+            "province": ""
+        },
+        {
+            "name": "云南大学",
+            "institute": "信息学院",
+            "description": "线上",
+            "deadline": "2025-07-24T00:00:00+08:00",
+            "website": "http://www.ise.ynu.edu.cn/annunciations/312",
+            "tags": [
+                "211"
+            ],
+            "province": ""
         }
     ],
     "camp2024": [
