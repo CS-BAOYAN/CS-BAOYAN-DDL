@@ -2399,6 +2399,28 @@
                 "C9"
             ],
             "province": ""
+        },
+        {
+            "name": "西安电子科技大学",
+            "institute": "人工智能学院",
+            "description": "预推免\n在“2026年推免生预报名”模块选择人工智能学院，按照报名要求填写相关信息，联系确认导师进行预报名",
+            "deadline": "2025-09-25T00:00:00+08:00",
+            "website": "https://sai.xidian.edu.cn/info/1106/12942.htm",
+            "tags": [
+                "211"
+            ],
+            "province": ""
+        },
+        {
+            "name": "中国人民公安大学",
+            "institute": "非公安学科",
+            "description": "预推免\n非公安学科（法学、国家安全学、法律、人工智能、大数据技术与工程）--英语笔试、专业面试",
+            "deadline": "2025-08-26T00:00:00+08:00",
+            "website": "https://yzb.ppsuc.edu.cn/info/1008/5064.htm",
+            "tags": [
+                "双非"
+            ],
+            "province": ""
         }
     ],
     "camp2024": [
