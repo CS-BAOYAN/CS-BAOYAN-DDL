@@ -2361,6 +2361,44 @@
                 "211"
             ],
             "province": ""
+        },
+        {
+            "name": "北京协和医学院",
+            "institute": "医学信息研究所",
+            "description": "_No response_",
+            "deadline": "2025-07-21T00:00:00+08:00",
+            "website": "https://mp.weixin.qq.com/s/PGYfM9cOpJoQZFNvMgU60A?scene=1&click_id=1",
+            "tags": [
+                "双非"
+            ],
+            "province": ""
+        },
+        {
+            "name": "南京大学",
+            "institute": "法学院",
+            "description": "报名类型为法律硕士（非法学）“数字与科技法学、涉外法治”方向。数字与科技法学方向的申请者应为双一流高校的理工类专业三年级本科生（2026年应届毕业生）；涉外法治方向的申请者应为双一流高校的非法学类专业三年级本科生（2026年应届毕业生）且外语能力突出。",
+            "deadline": "2025-08-10T23:00:00+08:00",
+            "website": "https://law.nju.edu.cn/info/1088/17411.htm",
+            "tags": [
+                "华五",
+                "C9",
+                "985",
+                "211"
+            ],
+            "province": ""
+        },
+        {
+            "name": "哈尔滨工业大学（深圳）",
+            "institute": "空天科技学院",
+            "description": "预推免",
+            "deadline": "2025-09-04T00:00:00+08:00",
+            "website": "http://issat.hitsz.edu.cn/currency.jsp?urltype=news.NewsContentUrl&wbtreeid=1079&wbnewsid=2881",
+            "tags": [
+                "985",
+                "211",
+                "C9"
+            ],
+            "province": ""
         }
     ],
     "camp2024": [
