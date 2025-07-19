@@ -2493,6 +2493,41 @@
                 "211"
             ],
             "province": ""
+        },
+        {
+            "name": "中央民族大学",
+            "institute": "信息工程学院",
+            "description": "预推免",
+            "deadline": "2025-09-02T00:00:00+08:00",
+            "website": "https://mp.weixin.qq.com/s/e3r4FkQYbLzzwfWYPcWt_w",
+            "tags": [
+                "985",
+                "211"
+            ],
+            "province": ""
+        },
+        {
+            "name": "中央民族大学",
+            "institute": "理学院",
+            "description": "预推免\n也有0854",
+            "deadline": "2025-08-11T00:00:00+08:00",
+            "website": "https://mp.weixin.qq.com/s/L2aWIRI2zVq308Fu5n0J1w",
+            "tags": [
+                "985",
+                "211"
+            ],
+            "province": ""
+        },
+        {
+            "name": "航天工程大学",
+            "institute": "入伍",
+            "description": "预推免",
+            "deadline": "2025-07-31T00:00:00+08:00",
+            "website": "https://mp.weixin.qq.com/s/QutGrQwGT1A1va7FE6zT2Q",
+            "tags": [
+                "四非"
+            ],
+            "province": ""
         }
     ],
     "camp2024": [
