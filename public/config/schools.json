@@ -2433,6 +2433,66 @@
                 "211"
             ],
             "province": ""
+        },
+        {
+            "name": "清华大学",
+            "institute": "SIGS电子信息（人工智能）",
+            "description": "预推免",
+            "deadline": "2025-07-28T12:00:00+08:00",
+            "website": "https://mp.weixin.qq.com/s/H_B_AuMBiJDQ0kt3jV-6Zg?click_id=1",
+            "tags": [
+                "TOP2",
+                "C9",
+                "985",
+                "211"
+            ],
+            "province": ""
+        },
+        {
+            "name": "中山大学",
+            "institute": "计算机学院",
+            "description": "预推免",
+            "deadline": "2025-08-16T23:59:00+08:00",
+            "website": "https://cse.sysu.edu.cn/article/3279",
+            "tags": [
+                "985",
+                "211"
+            ],
+            "province": ""
+        },
+        {
+            "name": "中国海洋大学",
+            "institute": "ALL",
+            "description": "预推免",
+            "deadline": "2025-09-15T00:00:00+08:00",
+            "website": "http://yz.ouc.edu.cn/2025/0718/c31626a503423/page.htm",
+            "tags": [
+                "985",
+                "211"
+            ],
+            "province": ""
+        },
+        {
+            "name": "北京邮电大学",
+            "institute": "人工智能学院",
+            "description": "_No response_",
+            "deadline": "2025-08-16T00:00:00+08:00",
+            "website": "https://mp.weixin.qq.com/s/xb7z39yen1l957arypDocg",
+            "tags": [
+                "211"
+            ],
+            "province": ""
+        },
+        {
+            "name": "合肥工业大学",
+            "institute": "计算机与信息学院",
+            "description": "本科前五学期加权成绩排名在本专业前列【原则上以下院校学生优先：原一流大学建设高校（以2017年教育部等三部委公布的“双一流”建设高校名单为准）A类高校前40%、B类高校前30%，其他“双一流”建设高校（以2022年教育部等三部委公布的第二轮“双一流”建设高校名单为准）前5%】；或在科研创新、学科竞赛、社会实践等方面表现突出，有高水平成果【需在申请材料中显著注明并提供证明】",
+            "deadline": "2025-07-26T00:00:00+08:00",
+            "website": "https://ci.hfut.edu.cn/info/1063/15784.htm",
+            "tags": [
+                "211"
+            ],
+            "province": ""
         }
     ],
     "camp2024": [
