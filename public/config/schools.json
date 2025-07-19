@@ -2528,6 +2528,39 @@
                 "四非"
             ],
             "province": ""
+        },
+        {
+            "name": "军事科学院",
+            "institute": "入伍",
+            "description": "预推免\n计算机科学与技术10个（直属单位四3个，直属单位五和直属单位九共5个，直属单位十2个）",
+            "deadline": "2025-07-28T12:00:00+08:00",
+            "website": "https://mp.weixin.qq.com/s/CdZ_gPl8mZV41Xe0f7Spcw?poc_token=HN6Me2ijwT-X9sJzgodImtjoBXR8bTpD1vpkBpib",
+            "tags": [
+                "四非"
+            ],
+            "province": ""
+        },
+        {
+            "name": "空军预警学院",
+            "institute": "入伍",
+            "description": "预推免",
+            "deadline": "2025-07-31T00:00:00+08:00",
+            "website": "https://mp.weixin.qq.com/s/guRKIHQbkkBpFDgvPNd5Sw",
+            "tags": [
+                "四非"
+            ],
+            "province": ""
+        },
+        {
+            "name": "火箭军工程大学",
+            "institute": "1,2,3院入伍",
+            "description": "预推免",
+            "deadline": "2025-07-30T12:00:00+08:00",
+            "website": "https://mp.weixin.qq.com/s/DV6mu92s0TY4p2chYlpnyA",
+            "tags": [
+                "四非"
+            ],
+            "province": ""
         }
     ],
     "camp2024": [
