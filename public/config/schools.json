@@ -2421,6 +2421,18 @@
                 "双非"
             ],
             "province": ""
+        },
+        {
+            "name": "中山大学",
+            "institute": "海洋工程与技术学院",
+            "description": "预推免比较友好",
+            "deadline": "2025-08-10T23:59:00+08:00",
+            "website": "https://soet.sysu.edu.cn/zh-hans/article/1241",
+            "tags": [
+                "985",
+                "211"
+            ],
+            "province": ""
         }
     ],
     "camp2024": [
