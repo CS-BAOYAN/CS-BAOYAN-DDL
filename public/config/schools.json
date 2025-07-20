@@ -2561,6 +2561,18 @@
                 "四非"
             ],
             "province": ""
+        },
+        {
+            "name": "重庆大学",
+            "institute": "ALL",
+            "description": "预推免",
+            "deadline": "2025-09-30T18:00:00+08:00",
+            "website": "https://yz.cqu.edu.cn/news/2025-07/2357.html",
+            "tags": [
+                "985",
+                "211"
+            ],
+            "province": ""
         }
     ],
     "camp2024": [
