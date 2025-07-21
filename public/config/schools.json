@@ -2573,6 +2573,17 @@
                 "211"
             ],
             "province": ""
+        },
+        {
+            "name": "北京语言大学",
+            "institute": "信息科学学院暨语言智能研究院",
+            "description": "_No response_",
+            "deadline": "2025-07-28T00:00:00+08:00",
+            "website": "https://mp.weixin.qq.com/s/pdu32JBRzEfhjUH_PAJxZg",
+            "tags": [
+                "四非"
+            ],
+            "province": ""
         }
     ],
     "camp2024": [
