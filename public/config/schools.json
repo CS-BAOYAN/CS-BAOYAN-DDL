@@ -2584,6 +2584,50 @@
                 "四非"
             ],
             "province": ""
+        },
+        {
+            "name": "西安电子科技大学",
+            "institute": "杭州卓越工程师学院(长三角基地)",
+            "description": "预推免",
+            "deadline": "2025-09-19T12:00:00+08:00",
+            "website": "https://hz.xidian.edu.cn/info/1009/20144.htm",
+            "tags": [
+                "211"
+            ],
+            "province": ""
+        },
+        {
+            "name": "南方科技大学",
+            "institute": "计算机科学与工程",
+            "description": "预推免",
+            "deadline": "2025-09-01T00:00:00+08:00",
+            "website": "https://cse.sustech.edu.cn/cn/news/view/id/1111?sessionid=",
+            "tags": [
+                "双非"
+            ],
+            "province": ""
+        },
+        {
+            "name": "中国科学院大学",
+            "institute": "沈阳计算技术研究所",
+            "description": "预推免",
+            "deadline": "2025-10-20T00:00:00+08:00",
+            "website": "http://yjs.sict.ac.cn/index.php?m=content&c=index&a=show&catid=15&id=165",
+            "tags": [
+                "四非"
+            ],
+            "province": ""
+        },
+        {
+            "name": "西安电子科技大学",
+            "institute": "广州卓越工程师学院(粤港澳大湾区基地)",
+            "description": "预推免",
+            "deadline": "2025-09-19T00:00:00+08:00",
+            "website": "https://gzyjy.xidian.edu.cn/info/1009/19512.htm",
+            "tags": [
+                "211"
+            ],
+            "province": ""
         }
     ],
     "camp2024": [
