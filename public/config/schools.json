@@ -273,11 +273,12 @@
         {
             "name": "中山大学",
             "institute": "软件工程学院",
-            "description": "网址：https://sse.sysu.edu.cn/article/908",
-            "deadline": "2025-06-05T23:59:00+08:00",
-            "website": "https://sse.sysu.edu.cn/article/908",
+            "description": "预推免",
+            "deadline": "2025-08-10T10:00:00+08:00",
+            "website": "https://sse.sysu.edu.cn/article/938",
             "tags": [
-                "985"
+                "985",
+                "211"
             ],
             "province": ""
         },
@@ -542,11 +543,12 @@
         {
             "name": "北京师范大学",
             "institute": "人工智能学院",
-            "description": "人工智能学院将于2025年7月16日-7月20日举办优秀大学生夏令营暨昇思MindSpore大模型创新训练营。本次活动以业界需求为背景、以实际项目为导向、以学生实践为主线，引导学生学习大模型相关知识，把握最新技术发展趋势，提升解决实际问题的能力。欢迎有意愿保送我院读研的优秀大学生报名参加。     本届夏令营采用线下形式进行，学院为营员统一安排食宿。活动日程共五天，7月16日12:00-19:00报到；7月20日12:00前离营，具体安排另行通知。",
-            "deadline": "2025-07-02T17:00:00+08:00",
-            "website": "https://mp.weixin.qq.com/s/mYfG49N-vkSoeR2qcp1LFQ",
+            "description": "优秀大学生夏令营暨昇思MindSpore大模型创新训练营的通知（第二期）",
+            "deadline": "2025-08-10T17:00:00+08:00",
+            "website": "https://ai.bnu.edu.cn/ggjxz/tzgg/d1a1d46bb85f452a982d8b54d6337c77.htm",
             "tags": [
-                "985"
+                "985",
+                "211"
             ],
             "province": ""
         },
@@ -2647,6 +2649,67 @@
             "description": "预推免",
             "deadline": "2025-08-24T23:59:00+08:00",
             "website": "https://eee.sustech.edu.cn/news_detail.aspx?id=2144&cid=91",
+            "tags": [
+                "双非"
+            ],
+            "province": ""
+        },
+        {
+            "name": "空军工程大学",
+            "institute": "入伍",
+            "description": "预推免",
+            "deadline": "2025-07-30T18:00:00+08:00",
+            "website": "https://mp.weixin.qq.com/s/nh9hrXqMRUTjzifjhexq7g",
+            "tags": [
+                "四非"
+            ],
+            "province": ""
+        },
+        {
+            "name": "武警工程大学",
+            "institute": "入伍",
+            "description": "2026年计划招收推荐免试入伍攻读硕士研究生5人。招生学科专业：信息与通信工程、电子信息，各学科招生数量根据实际报名和复试情况确定。",
+            "deadline": "2025-07-29T00:00:00+08:00",
+            "website": "https://mp.weixin.qq.com/s/U9_6S09NTTnrVbzUqBlq8A",
+            "tags": [
+                "四非"
+            ],
+            "province": ""
+        },
+        {
+            "name": "湖南大学",
+            "institute": "信息科学与工程学院",
+            "description": "预推免开始报名，但截止时间仅供参考，官方仍未公布",
+            "deadline": "2025-09-28T00:00:00+08:00",
+            "website": "http://csee.hnu.edu.cn/info/1062/13737.htm",
+            "tags": [
+                "985",
+                "211"
+            ],
+            "province": ""
+        },
+        {
+            "name": "清华大学",
+            "institute": "全球创新学院",
+            "description": "预推免",
+            "deadline": "2025-07-28T12:00:00+08:00",
+            "website": "https://mp.weixin.qq.com/s/nw3WIR8ZGpWMEVPs4Em2Tg",
+            "tags": [
+                "TOP2",
+                "华五",
+                "C9",
+                "985",
+                "211",
+                "联培"
+            ],
+            "province": ""
+        },
+        {
+            "name": "南京邮电大学",
+            "institute": "计算机学院、软件学院、网络空间安全学院",
+            "description": "“边缘智能与网络安全”暑期学校",
+            "deadline": "2025-07-30T00:00:00+08:00",
+            "website": "https://cs.njupt.edu.cn/2025/0623/c16083a286255/page.htm",
             "tags": [
                 "双非"
             ],
