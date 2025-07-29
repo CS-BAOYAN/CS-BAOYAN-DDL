@@ -2778,6 +2778,30 @@
                 "211"
             ],
             "province": ""
+        },
+        {
+            "name": "湖南大学",
+            "institute": "人工智能与机器人学院",
+            "description": "预推免(未写明截止日期，时间仅供参考)",
+            "deadline": "2025-09-29T00:00:00+08:00",
+            "website": "http://robotics.hnu.edu.cn/info/1074/3111.htm",
+            "tags": [
+                "985",
+                "211"
+            ],
+            "province": ""
+        },
+        {
+            "name": "湖南大学",
+            "institute": "网络空间安全学院",
+            "description": "预推免(未写明截止日期，时间仅供参考)",
+            "deadline": "2025-09-29T00:00:00+08:00",
+            "website": "http://cst.hnu.edu.cn/info/1053/1172.htm",
+            "tags": [
+                "985",
+                "211"
+            ],
+            "province": ""
         }
     ],
     "camp2024": [
