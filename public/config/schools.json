@@ -657,10 +657,13 @@
         {
             "name": "浙江大学",
             "institute": "软件学院",
-            "description": "浙江大学软件学院夏令营",
-            "deadline": "2025-06-23T00:00:00+08:00",
-            "website": "http://www.cst.zju.edu.cn/2025/0606/c36207a3059270/page.htm",
+            "description": "预推免",
+            "deadline": "2025-09-09T12:00:00+08:00",
+            "website": "http://www.cst.zju.edu.cn/2025/0730/c32178a3072203/page.htm",
             "tags": [
+                "985",
+                "211",
+                "C9",
                 "华五"
             ],
             "province": ""
@@ -2832,6 +2835,17 @@
                 "211",
                 "C9",
                 "华五"
+            ],
+            "province": ""
+        },
+        {
+            "name": "西安电子科技大学",
+            "institute": "空间科学与技术学院",
+            "description": "预推免",
+            "deadline": "2025-09-20T00:00:00+08:00",
+            "website": "https://sast.xidian.edu.cn/info/1014/13647.htm",
+            "tags": [
+                "211"
             ],
             "province": ""
         }
