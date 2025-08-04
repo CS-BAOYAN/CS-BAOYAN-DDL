@@ -2892,6 +2892,18 @@
                 "研究院"
             ],
             "province": ""
+        },
+        {
+            "name": "中山大学",
+            "institute": "智能工程学院",
+            "description": "预推免",
+            "deadline": "2025-08-08T23:59:00+08:00",
+            "website": "https://ise.sysu.edu.cn/article/1544",
+            "tags": [
+                "985",
+                "211"
+            ],
+            "province": ""
         }
     ],
     "camp2024": [
