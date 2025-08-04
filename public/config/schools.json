@@ -248,14 +248,14 @@
         {
             "name": "南京大学",
             "institute": "智能科学与技术学院",
-            "description": "_No response_",
-            "deadline": "2025-07-10T17:00:00+08:00",
-            "website": "https://is.nju.edu.cn/b4/31/c57160a767025/page.htm",
+            "description": "预推免",
+            "deadline": "2025-09-01T17:00:00+08:00",
+            "website": "https://is.nju.edu.cn/de/94/c57160a777876/page.htm",
             "tags": [
+                "华五",
                 "C9",
                 "985",
-                "211",
-                "华五"
+                "211"
             ],
             "province": ""
         },
@@ -2846,6 +2846,50 @@
             "website": "https://sast.xidian.edu.cn/info/1014/13647.htm",
             "tags": [
                 "211"
+            ],
+            "province": ""
+        },
+        {
+            "name": "陕西师范大学",
+            "institute": "ALL",
+            "description": "预推免",
+            "deadline": "2025-09-11T00:00:00+08:00",
+            "website": "http://yz.snnu.edu.cn/info/1009/7671.htm",
+            "tags": [
+                "211"
+            ],
+            "province": ""
+        },
+        {
+            "name": "广西大学",
+            "institute": "ALL",
+            "description": "预推免",
+            "deadline": "2025-08-29T00:00:00+08:00",
+            "website": "https://yjsc.gxu.edu.cn/info/1021/4015.htm",
+            "tags": [
+                "211"
+            ],
+            "province": ""
+        },
+        {
+            "name": "中国石油大学(北京)",
+            "institute": "人工智能学院",
+            "description": "预推免",
+            "deadline": "2025-09-03T23:59:00+08:00",
+            "website": "https://www.cup.edu.cn/cupai/tzgg/d89506d4c98e47b087eba297909d2212.htm",
+            "tags": [
+                "211"
+            ],
+            "province": ""
+        },
+        {
+            "name": "中国科学院",
+            "institute": "声学研究所",
+            "description": "预推免(各研究单元将视名额情况择优进行分批面试。)",
+            "deadline": "2025-09-29T00:00:00+08:00",
+            "website": "http://ioa.cas.cn/yjs/zsxx/zstz/202508/t20250801_7900469.html",
+            "tags": [
+                "研究院"
             ],
             "province": ""
         }
