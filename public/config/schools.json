@@ -299,11 +299,12 @@
         {
             "name": "中山大学",
             "institute": "网络空间安全学院",
-            "description": "_No response_",
-            "deadline": "2025-06-16T00:00:00+08:00",
-            "website": "https://scst.sysu.edu.cn/news/news02/1419108.htm",
+            "description": "预推免",
+            "deadline": "2025-08-31T23:55:00+08:00",
+            "website": "https://scst.sysu.edu.cn/news/news02/1419513.htm",
             "tags": [
-                "985"
+                "985",
+                "211"
             ],
             "province": ""
         },
@@ -2938,6 +2939,77 @@
             "website": "https://mp.weixin.qq.com/s/iv72_J2yIVplv9itTuu2Uw",
             "tags": [
                 "双非"
+            ],
+            "province": ""
+        },
+        {
+            "name": "南开大学",
+            "institute": "卓越工程师学院",
+            "description": "预推免",
+            "deadline": "2025-09-08T00:00:00+08:00",
+            "website": "https://yzxt.nankai.edu.cn/intern/frontend/web/pg-net-sign-up/index?id=27",
+            "tags": [
+                "985",
+                "211"
+            ],
+            "province": ""
+        },
+        {
+            "name": "中国科学院",
+            "institute": "计算机网络信息中心",
+            "description": "预推免",
+            "deadline": "2025-09-08T00:00:00+08:00",
+            "website": "https://cnic.cas.cn/yjsjy/zsxx/tjms/202508/t20250807_7901512.html",
+            "tags": [
+                "研究院"
+            ],
+            "province": ""
+        },
+        {
+            "name": "湖南大学",
+            "institute": "国家卓越工程师学院",
+            "description": "预推免(动态接受，额满为止)",
+            "deadline": "2025-09-29T00:00:00+08:00",
+            "website": "https://ngcee.hnu.edu.cn/info/1083/3067.htm",
+            "tags": [
+                "985",
+                "211"
+            ],
+            "province": ""
+        },
+        {
+            "name": "天津理工大学",
+            "institute": "ALL",
+            "description": "预推免",
+            "deadline": "2025-09-11T00:00:00+08:00",
+            "website": "https://mp.weixin.qq.com/s/gPjju3j2ltzFeajWt6LEUA",
+            "tags": [
+                "四非"
+            ],
+            "province": ""
+        },
+        {
+            "name": "北京科技大学",
+            "institute": "智能科学与技术学院",
+            "description": "预推免",
+            "deadline": "2025-08-28T17:00:00+08:00",
+            "website": "https://ai.ustb.edu.cn/xwgg/tzgg/79048df311dc467699ed5a356529d0a8.htm",
+            "tags": [
+                "211"
+            ],
+            "province": ""
+        },
+        {
+            "name": "浙江大学",
+            "institute": "生物医学工程与仪器科学学院",
+            "description": "预推免",
+            "deadline": "2025-09-11T00:00:00+08:00",
+            "website": "http://www.cbeis.zju.edu.cn/2025/0806/c63837a3073268/page.htm",
+            "tags": [
+                "华五",
+                "C9",
+                "985",
+                "211"
             ],
             "province": ""
         }
