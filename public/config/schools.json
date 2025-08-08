@@ -3026,6 +3026,17 @@
                 "C9"
             ],
             "province": ""
+        },
+        {
+            "name": "中国科学院",
+            "institute": "云南天文台",
+            "description": "预推免(提交申请后应保持手机畅通并经常登录查看通知以免延误考核)\n截止时间  仅供参考",
+            "deadline": "2025-09-29T00:00:00+08:00",
+            "website": "https://ynao.cas.cn/yjsjy/jydt/zs/202507/t20250723_7894728.html",
+            "tags": [
+                "研究院"
+            ],
+            "province": ""
         }
     ],
     "camp2024": [
