@@ -3037,6 +3037,52 @@
                 "研究院"
             ],
             "province": ""
+        },
+        {
+            "name": "哈尔滨工业大学",
+            "institute": "（深圳）智能学部",
+            "description": "预推免（学部将通过推免生信息采集系统及邮件（或其他形式）分批次通知学生审核通过情况）",
+            "deadline": "2025-09-11T00:00:00+08:00",
+            "website": "http://intelligence.hitsz.edu.cn/currency.jsp?urltype=news.NewsContentUrl&wbtreeid=1259&wbnewsid=1521",
+            "tags": [
+                "C9",
+                "985",
+                "211"
+            ],
+            "province": ""
+        },
+        {
+            "name": "中国科学院",
+            "institute": "成都计算所",
+            "description": "预推免",
+            "deadline": "2025-09-11T00:00:00+08:00",
+            "website": "http://www.casit.ac.cn/tongzhi/308.html",
+            "tags": [
+                "研究院"
+            ],
+            "province": ""
+        },
+        {
+            "name": "河海大学",
+            "institute": "ALL",
+            "description": "预推免\n计算机与软件学院 | 2025-08-01 00:00:00至2025-09-15 09:00:00\n人工智能与自动化学院 | 2025-08-01 08:00:00至2025-09-20 12:00:00\n信息科学与工程学院|2025-08-01 08:00:00至2025-09-15 08:00:00",
+            "deadline": "2025-09-21T00:00:00+08:00",
+            "website": "https://gs.hhu.edu.cn/2025/0731/c17277a306121/page.htm",
+            "tags": [
+                "211"
+            ],
+            "province": ""
+        },
+        {
+            "name": "南京航空航天大学",
+            "institute": "ALL",
+            "description": "预推免（前期已在该系统报名参加学院实验室开放日等活动的学生自动转为已报名（系统相同，账号密码一致），无需重复报名。所有学生如需信息修改，请在学院报名截止时间之前联系报考学院退回，修改后重新提交。）",
+            "deadline": "2025-09-20T00:00:00+08:00",
+            "website": "https://www.graduate.nuaa.edu.cn/2025/0802/c2145a380731/page.htm",
+            "tags": [
+                "211"
+            ],
+            "province": ""
         }
     ],
     "camp2024": [
