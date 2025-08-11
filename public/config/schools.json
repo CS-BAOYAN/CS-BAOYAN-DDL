@@ -153,12 +153,13 @@
         {
             "name": "西湖大学",
             "institute": "工学院",
-            "description": "https://engineering.westlake.edu.cn/NewsEvents/LatestNews/202504/t20250430_55211.shtml",
-            "deadline": "2025-06-26T10:00:00+08:00",
-            "website": "https://engineering.westlake.edu.cn/NewsEvents/LatestNews/202504/t20250430_55211.shtml",
+            "description": "预推免",
+            "deadline": "2025-09-01T10:00:00+08:00",
+            "website": "https://engineering.westlake.edu.cn/Admission/GraduateProgram/zszx_2623/202508/t20250808_57305.shtml",
             "tags": [
                 "四非"
-            ]
+            ],
+            "province": ""
         },
         {
             "name": "北京大学",
@@ -1911,8 +1912,8 @@
         {
             "name": "苏州大学",
             "institute": "计算机科学与技术学院（软件学院）",
-            "description": "线下考试时间（考生自选一个批次参加考试（只能参加一次））\n1）第一批次：8月20日13:00-16:00(报名截止8月13日23:59:59)\n2）第二批次：9月10日13:00-16:00(报名截止9月3日23:59:59)",
-            "deadline": "2025-08-14T00:00:00+08:00",
+            "description": "预推免\n报名截止时间：每批次考试时间的前一周（以在线收集表提交时间为准，即8月23日23:59:59或9月3日23:59:59）",
+            "deadline": "2025-09-03T23:59:59+08:00",
             "website": "https://scst.suda.edu.cn/33/30/c29557a668464/page.htm",
             "tags": [
                 "211"
@@ -2037,9 +2038,9 @@
         {
             "name": "北京科技大学",
             "institute": "计算机与通信工程学院",
-            "description": "本次活动预计接收200人参加，其中校内约120人，校外80人。校外参会人员由组织方统一负责7月11日晚的酒店住宿安排与7月12日午餐、晚餐安排",
-            "deadline": "2025-07-05T23:59:00+08:00",
-            "website": "https://mp.weixin.qq.com/s/VMzBqqZTSq8FD_hAcNfwEA",
+            "description": "预推免",
+            "deadline": "2025-08-30T23:59:00+08:00",
+            "website": "http://scce.ustb.edu.cn/xinwentongzhi/tongzhigonggao/2025-08-11/2224.html",
             "tags": [
                 "211"
             ],
@@ -3092,6 +3093,32 @@
             "website": "http://www.iscas.ac.cn/yjsjy2016/zsxx2016/202508/t20250811_7902397.html",
             "tags": [
                 "研究院"
+            ],
+            "province": ""
+        },
+        {
+            "name": "南京大学",
+            "institute": "软件学院",
+            "description": "预推免",
+            "deadline": "2025-09-10T23:59:59+08:00",
+            "website": "https://software.nju.edu.cn//tzgg/20250811/i333050.html",
+            "tags": [
+                "华五",
+                "C9",
+                "985",
+                "211"
+            ],
+            "province": ""
+        },
+        {
+            "name": "厦门大学",
+            "institute": "电影学院",
+            "description": "预推免（数字媒体系：081200 计算机科学与技术 | 085405软件工程）",
+            "deadline": "2025-08-31T00:00:00+08:00",
+            "website": "https://mp.weixin.qq.com/s/fG0Z5vndOtEDmiXK-DMkJQ",
+            "tags": [
+                "985",
+                "211"
             ],
             "province": ""
         }
