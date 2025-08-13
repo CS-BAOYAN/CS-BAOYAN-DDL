@@ -3121,6 +3121,28 @@
                 "211"
             ],
             "province": ""
+        },
+        {
+            "name": "长安大学",
+            "institute": "电子与控制工程学院",
+            "description": "预推免（我院将陆续对申请人报名信息进行资格初审，通过资格初审的申请人将进入推免复试环节。\n我院接收2026年推免生的复试工作将分批次进行，具体复试安排以学院后续通知为准）",
+            "deadline": "2025-09-29T00:00:00+08:00",
+            "website": "http://ec.chd.edu.cn/info/1043/2502.htm",
+            "tags": [
+                "211"
+            ],
+            "province": ""
+        },
+        {
+            "name": "南方科技大学",
+            "institute": "创新创意设计学院",
+            "description": "预推免(0812)",
+            "deadline": "2025-08-31T17:30:00+08:00",
+            "website": "https://designschool.sustech.edu.cn/cn/admission/masters-admissions/744.html",
+            "tags": [
+                "双非"
+            ],
+            "province": ""
         }
     ],
     "camp2024": [
