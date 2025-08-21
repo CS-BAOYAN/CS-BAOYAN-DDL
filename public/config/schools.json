@@ -23,12 +23,13 @@
         {
             "name": "中国科学院",
             "institute": "空天信息创新研究院",
-            "description": "2025年拟招收推免直博/硕士生3名",
-            "deadline": "",
-            "website": "https://mp.weixin.qq.com/s/WXNePcQck_HVdVvOg-fCKg",
+            "description": "预推免",
+            "deadline": "2025-09-28T00:00:00+08:00",
+            "website": "https://mp.weixin.qq.com/s/OeP0gBqMUcYy0bs1Unsaxg",
             "tags": [
                 "研究院"
-            ]
+            ],
+            "province": ""
         },
         {
             "name": "北京大学",
@@ -3249,6 +3250,50 @@
             "website": "https://mp.weixin.qq.com/s/7Sa7Pw008VsKSFGBU7ycLw?click_id=5",
             "tags": [
                 "双非"
+            ],
+            "province": ""
+        },
+        {
+            "name": "海南医科大学",
+            "institute": "智能医学与技术学院",
+            "description": "我单位将提供营员在海南期间的食宿和往返路费（共不超过1000元）；拟录取营员的食宿和往返路费在录取后会补齐差价",
+            "deadline": "2025-08-27T00:00:00+08:00",
+            "website": "https://www.muhn.edu.cn/xxjsb/info/1037/6105.htm",
+            "tags": [
+                "四非"
+            ],
+            "province": ""
+        },
+        {
+            "name": "中国科学院",
+            "institute": "微小卫星创新研究院",
+            "description": "预推免（预计在9月中旬开始分批进行，录满截止）",
+            "deadline": "2025-09-29T00:00:00+08:00",
+            "website": "https://www.microsate.ac.cn/yajsjy/sszsxx/202508/t20250820_7907973.html",
+            "tags": [
+                "研究院"
+            ],
+            "province": ""
+        },
+        {
+            "name": "中国科学院",
+            "institute": "上海微系统与信息技术研究所",
+            "description": "预推免（预计于9月中旬后分批进行）",
+            "deadline": "2025-09-26T00:00:00+08:00",
+            "website": "http://www.sim.cas.cn/yjs/zsxx/yjs_sszs/202508/t20250820_7907445.html",
+            "tags": [
+                "研究院"
+            ],
+            "province": ""
+        },
+        {
+            "name": "暨南大学",
+            "institute": "ALL",
+            "description": "预推免",
+            "deadline": "2025-09-20T00:00:00+08:00",
+            "website": "https://yz.jnu.edu.cn/2025/0721/c33059a840936/page.htm",
+            "tags": [
+                "211"
             ],
             "province": ""
         }
