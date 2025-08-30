@@ -3436,6 +3436,28 @@
                 "四非"
             ],
             "province": ""
+        },
+        {
+            "name": "成都信息工程大学",
+            "institute": "计算机学院",
+            "description": "预推免",
+            "deadline": "2025-09-01T18:00:00+08:00",
+            "website": "https://jsjxy.cuit.edu.cn/info/1141/3135.htm",
+            "tags": [
+                "四非"
+            ],
+            "province": ""
+        },
+        {
+            "name": "中国科学院",
+            "institute": "计算所",
+            "description": "预推免",
+            "deadline": "2025-09-04T12:00:00+08:00",
+            "website": "https://ict.cas.cn/yjsjy/zsxx/sszs/202508/t20250829_7946055.html",
+            "tags": [
+                "研究院"
+            ],
+            "province": ""
         }
     ],
     "camp2024": [
