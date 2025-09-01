@@ -3458,6 +3458,17 @@
                 "研究院"
             ],
             "province": ""
+        },
+        {
+            "name": "中国传媒大学",
+            "institute": "ALL",
+            "description": "计算机与网络空间安全学院",
+            "deadline": "2025-09-11T20:00:00+08:00",
+            "website": "https://yz.cuc.edu.cn/2025/0830/c8678a259447/page.htm",
+            "tags": [
+                "211"
+            ],
+            "province": ""
         }
     ],
     "camp2024": [
