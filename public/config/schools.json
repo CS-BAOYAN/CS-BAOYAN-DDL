@@ -608,11 +608,15 @@
         {
             "name": "北京大学",
             "institute": "智能学院",
-            "description": "北京大学智能学院将面向智能科学与技术学科的优秀大学生举办夏令营活动，活动内容主要包括学院总体概览、学科前沿报告、专题讲座、专业知识与技能测评等。",
-            "deadline": "2025-06-16T08:00:00+08:00",
-            "website": "https://www.cis.pku.edu.cn/info/1083/3389.htm",
+            "description": "请于2025年9月11日16：00前，寄达纸质版材料，或工作时间送达纸质版材料\n预计复试时间安排在9月中旬，具体时间以后续发布的复试通知为准。",
+            "deadline": "2025-09-10T16:00:00:00+08:00",
+            "website": "https://www.cis.pku.edu.cn/info/1034/3463.htm",
             "tags": [
-                "TOP2"
+                "TOP2",
+                "华五",
+                "C9",
+                "985",
+                "211"
             ],
             "province": ""
         },
@@ -653,11 +657,15 @@
         {
             "name": "北京大学",
             "institute": "计算机学院",
-            "description": "_No response_",
-            "deadline": "2025-06-16T00:00:00+08:00",
-            "website": "https://mp.weixin.qq.com/s?srcid=0606eg8xUBJRMGcgcYgnz0xw&scene=23&sharer_shareinfo=955a078f71c6b7762a4aa3f5c8f19164&mid=2247510571&qq_aio_chat_type=3&sn=1b4abc0084cc423f2b1246ccf563835d&idx=1&sharer_shareinfo_first=955a078f71c6b7762a4aa3f5c8f19164&__biz=MzU2MTEwNjk4Mg%3D%3D&chksm=fd90a2c2af7c4e341ca959912205fa930a86db5e5c6509ce53282926187e19c2b2cc8a0a85e0&mpshare=1#rd",
+            "description": "预推免",
+            "deadline": "2025-09-10T16:00:00:00+08:00",
+            "website": "https://cs.pku.edu.cn/info/1051/3935.htm",
             "tags": [
-                "TOP2"
+                "TOP2",
+                "华五",
+                "C9",
+                "985",
+                "211"
             ],
             "province": ""
         },
@@ -722,11 +730,15 @@
         {
             "name": "北京大学",
             "institute": "软件与微电子学院",
-            "description": "_No response_",
-            "deadline": "2025-06-16T16:00:00+08:00",
-            "website": "https://www.ss.pku.edu.cn/admission/admnotice/4680.html",
+            "description": "如果你是一战，我建议你去考软微，拿下top2人这一辈子就满足了\n如果你是二战，我建议你去考软微，有过一战的沉淀二战的你已经无比强大，数据也显示软微二战上岸率很高\n如果你是三战，我建议你考软微，因为软微放两年实习，考上了之前两战浪费的时间通通弥补\n如果你是四战，我还是建议你考软微，此时的你已经无牵无挂，唯有上北大你才能拿回属于你的一切",
+            "deadline": "2025-09-10T16:00:00+08:00",
+            "website": "https://www.ss.pku.edu.cn/admission/admnotice/4698.html",
             "tags": [
-                "TOP2"
+                "TOP2",
+                "华五",
+                "C9",
+                "985",
+                "211"
             ],
             "province": ""
         },
@@ -788,9 +800,9 @@
         {
             "name": "山东大学",
             "institute": "软件学院",
-            "description": "山东大学软件学院将于七月上旬举办“2025年全国优秀大学生暑期夏令营”活动,面向全国各高等学校本科在校三年级学生。",
-            "deadline": "2025-06-24T00:00:00+08:00",
-            "website": "https://www.sc.sdu.edu.cn/info/1019/5357.htm",
+            "description": "本次复试采取线下考核的形式，复试时间：9月20日（周六）全天，复试地点：山东大学软件园校区（山东省济南市历城区舜华路1500号）",
+            "deadline": "2025-09-15T12:00:00+08:00",
+            "website": "https://www.sc.sdu.edu.cn/info/1019/5479.htm",
             "tags": [
                 "985",
                 "211"
@@ -811,9 +823,9 @@
         {
             "name": "中国科学院",
             "institute": "沈阳自动化研究所",
-            "description": "单程路费。实报实销营员从高校或家庭所在城市至沈阳的火车硬座（含高铁二等座）、硬卧（单程8小时以上）或轮船三等舱及以下的车船票费用，沈阳市内车费不予报销，乘坐飞机按照不超过高铁二等座报销。\n对于通过推免考核并录取为我所2025年研究生的营员，在入学报到后为其报销返程车船费，请保存好返程车船票。",
-            "deadline": "2025-08-12T17:00:00+08:00",
-            "website": "https://www.sia.cas.cn/zpjy/yjsjy/zs/zsgg/202507/t20250728_7897411.html",
+            "description": "报名自即日起，不设置截止时间，随时报名，请提前至少2天报名所选批次。\n第一批复试的时间9月11日，第二批复试的时间9月18日",
+            "deadline": "2025-09-22T00:00:00+08:00",
+            "website": "http://www.sia.cas.cn/zpjy/yjsjy/zs/zsgg/202509/t20250901_7948380.html",
             "tags": [
                 "研究院"
             ],
@@ -1226,9 +1238,9 @@
         {
             "name": "四川大学",
             "institute": "网络空间安全学院",
-            "description": "线上",
-            "deadline": "2025-06-30T00:00:00+08:00",
-            "website": "https://ccs.scu.edu.cn/info/1026/4162.htm",
+            "description": "我院将在2025年9月15日左右在预推免报名系统中完成审核，凡通过审核的均可参加我院的预推免复试，本次复试采取线上复试形式",
+            "deadline": "2025-09-13T00:00:00+08:00",
+            "website": "https://ccs.scu.edu.cn/info/1038/4224.htm",
             "tags": [
                 "985",
                 "211"
@@ -3462,9 +3474,163 @@
         {
             "name": "中国传媒大学",
             "institute": "ALL",
-            "description": "计算机与网络空间安全学院",
+            "description": "复试时间拟定为9月18日-9月20日，具体安排请关注学院（研究院、实验室）通知。\n从2023级研究生开始，我校对于专业学位研究生（专项计划除外）只提供第一年住宿",
             "deadline": "2025-09-11T20:00:00+08:00",
             "website": "https://yz.cuc.edu.cn/2025/0830/c8678a259447/page.htm",
+            "tags": [
+                "211"
+            ],
+            "province": ""
+        },
+        {
+            "name": "北京大学",
+            "institute": "先进制造与机器人学院",
+            "description": "预推免",
+            "deadline": "2025-09-10T16:00:00+08:00",
+            "website": "https://www.ere.coe.pku.edu.cn/jyjx/yjsjy/tzgg1/386cd74cffe04a79afac633c9d07815e.htm",
+            "tags": [
+                "TOP2",
+                "华五",
+                "C9",
+                "985",
+                "211"
+            ],
+            "province": ""
+        },
+        {
+            "name": "山东大学",
+            "institute": "未来技术学院",
+            "description": "山东大学未来技术学院将于9月中下旬起择优通知考生参加复试。具体复试时间、形式和复试录取办法将在山东大学未来技术学院官网公布。",
+            "deadline": "2025-09-14T17:00:00+08:00",
+            "website": "https://sft.sdu.edu.cn/info/1010/1788.htm",
+            "tags": [
+                "985",
+                "211"
+            ],
+            "province": ""
+        },
+        {
+            "name": "山东大学（威海）",
+            "institute": "空间科学与技术学院",
+            "description": "9月17日10:00前，空间科学与技术学院将根据学生报名情况择优发送复试通知",
+            "deadline": "2025-09-15T17:00:00+08:00",
+            "website": "https://apd.wh.sdu.edu.cn/info/1049/18700.htm",
+            "tags": [
+                "985",
+                "211"
+            ],
+            "province": ""
+        },
+        {
+            "name": "中国科学院",
+            "institute": "上海天文台",
+            "description": "预推免可视具体报名情况及高校实际情况适当延长",
+            "deadline": "2025-09-11T00:00:00+08:00",
+            "website": "http://www.shao.cas.cn/yjs/zsxx/202509/t20250901_7950411.html",
+            "tags": [
+                "研究院"
+            ],
+            "province": ""
+        },
+        {
+            "name": "曲阜师范大学",
+            "institute": "ALL",
+            "description": "复试时间为9月23日-10月15日，具体时间以学校及招生学院通知为准",
+            "deadline": "2025-10-16T00:00:00+08:00",
+            "website": "https://yjs.qfnu.edu.cn/info/1044/4860.htm",
+            "tags": [
+                "四非"
+            ],
+            "province": ""
+        },
+        {
+            "name": "同济大学",
+            "institute": "设计创意学院",
+            "description": "学院将在9月15日报名截止后统一审核并安排复试程序，各位同学届时请保持申请材料中填写的手机号和邮箱能畅通联系，以便通知审核结果",
+            "deadline": "2025-09-16T00:00:00+08:00",
+            "website": "https://mp.weixin.qq.com/s/3RA70SkTfF6VzJe9GdF2NA",
+            "tags": [
+                "985",
+                "211"
+            ],
+            "province": ""
+        },
+        {
+            "name": "中南大学",
+            "institute": "大数据研究院",
+            "description": "考核时间9月7日—8日",
+            "deadline": "2025-09-04T00:00:00+08:00",
+            "website": "https://bdi.csu.edu.cn/info/1063/3484.htm",
+            "tags": [
+                "985",
+                "211"
+            ],
+            "province": ""
+        },
+        {
+            "name": "南京林业大学",
+            "institute": "信息科学技术、人工智能学院",
+            "description": "预推免",
+            "deadline": "2025-09-21T00:00:00+08:00",
+            "website": "https://it.njfu.edu.cn/wzsy/tzgg/20250901/i343033.html",
+            "tags": [
+                "双非"
+            ],
+            "province": ""
+        },
+        {
+            "name": "山东大学",
+            "institute": "网络空间安全学院",
+            "description": "学院将根据考生报名情况于9月中下旬择优通知考生参加复试，具体复试时间、形式和复试录取办法将在学院网站公布",
+            "deadline": "2025-09-12T17:00:00+08:00",
+            "website": "https://cst.qd.sdu.edu.cn/info/1023/3733.htm",
+            "tags": [
+                "985",
+                "211"
+            ],
+            "province": ""
+        },
+        {
+            "name": "山东大学",
+            "institute": "浪潮人工智能学院",
+            "description": "学院将于9月中上旬起择优分批次通知考生参加复试。复试方式和复试内容将在本网站公布。",
+            "deadline": "2025-09-11T17:00:00+08:00",
+            "website": "https://www.ai.sdu.edu.cn/info/1088/1359.htm",
+            "tags": [
+                "985",
+                "211"
+            ],
+            "province": ""
+        },
+        {
+            "name": "同济大学",
+            "institute": "中意工程创新学院",
+            "description": "预推免（信息通信与具身智能085400）",
+            "deadline": "2025-09-13T00:00:00+08:00",
+            "website": "https://tjsic.tongji.edu.cn/info/1094/3778.htm",
+            "tags": [
+                "985",
+                "211"
+            ],
+            "province": ""
+        },
+        {
+            "name": "华中师范大学",
+            "institute": "ALL",
+            "description": "预推免",
+            "deadline": "2025-09-15T00:00:00+08:00",
+            "website": "http://gs.ccnu.edu.cn/info/1028/5023.htm",
+            "tags": [
+                "211"
+            ],
+            "province": ""
+        },
+        {
+            "name": "华东理工大学",
+            "institute": "ALL",
+            "description": "预推免",
+            "deadline": "2025-09-19T09:00:00+08:00",
+            "website": "https://gschool.ecust.edu.cn/2025/0826/c12754a181610/page.htm",
             "tags": [
                 "211"
             ],
