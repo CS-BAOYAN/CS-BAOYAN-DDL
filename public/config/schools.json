@@ -1155,11 +1155,12 @@
         {
             "name": "华东师范大学",
             "institute": "计算机科学与技术学院",
-            "description": "7.22举行",
-            "deadline": "2025-07-05T23:59:59+08:00",
-            "website": "https://mp.weixin.qq.com/s/-4TkxgzNEUW2o8WXPqUIRg",
+            "description": "预推免",
+            "deadline": "2025-09-10T10:00:00+08:00",
+            "website": "https://mp.weixin.qq.com/s/t21c4qzXHlVE6j56uPayvQ",
             "tags": [
-                "985"
+                "985",
+                "211"
             ],
             "province": ""
         },
@@ -1203,9 +1204,9 @@
         {
             "name": "四川大学",
             "institute": "计算机学院（软件学院、智能科学与技术学院）",
-            "description": "线下暑期开放营期间由我院安排免费食宿。\n\n往返交通费由学生个人承担。本校营员不予安排住宿。",
-            "deadline": "2025-06-25T12:00:00+08:00",
-            "website": "https://cs.scu.edu.cn/info/1247/19313.htm",
+            "description": "需要统一注册，如已经注册过夏令营，不用重新注册，用夏令营帐号密码登录，但需重新报",
+            "deadline": "2025-09-10T12:00:00+08:00",
+            "website": "https://cs.scu.edu.cn/info/1247/19383.htm",
             "tags": [
                 "985",
                 "211"
@@ -3632,6 +3633,18 @@
             "deadline": "2025-09-19T09:00:00+08:00",
             "website": "https://gschool.ecust.edu.cn/2025/0826/c12754a181610/page.htm",
             "tags": [
+                "211"
+            ],
+            "province": ""
+        },
+        {
+            "name": "东南大学",
+            "institute": "雷恩研究生学院",
+            "description": "已入围东南大学夏令营的同学不可再次报名",
+            "deadline": "2025-09-08T12:00:00+08:00",
+            "website": "https://cs.seu.edu.cn/2025/0901/c49342a537970/page.htm",
+            "tags": [
+                "985",
                 "211"
             ],
             "province": ""
