@@ -267,11 +267,12 @@
         {
             "name": "同济大学",
             "institute": "计算机科学与技术学院",
-            "description": "_No response_",
-            "deadline": "2025-06-06T12:00:00+08:00",
-            "website": "https://cs.tongji.edu.cn/info/1022/3675.htm",
+            "description": "复试时间暂定：9月14日-15日，线下举行，具体安排另行通知",
+            "deadline": "2025-09-10T12:00:00+08:00",
+            "website": "https://cs.tongji.edu.cn/info/1022/3744.htm",
             "tags": [
-                "985"
+                "985",
+                "211"
             ],
             "province": ""
         },
@@ -3646,6 +3647,86 @@
             "tags": [
                 "985",
                 "211"
+            ],
+            "province": ""
+        },
+        {
+            "name": "华东师范大学",
+            "institute": "智能教育研究院",
+            "description": "预推免",
+            "deadline": "2025-09-14T17:00:00+08:00",
+            "website": "https://mp.weixin.qq.com/s/lYJL9qXYPMge3__C0hG7ow?click_id=13",
+            "tags": [
+                "211",
+                "985"
+            ],
+            "province": ""
+        },
+        {
+            "name": "山东大学",
+            "institute": "密码科学与工程学院",
+            "description": "预推免",
+            "deadline": "2025-09-15T17:00:00+08:00",
+            "website": "https://cst.qd.sdu.edu.cn/info/1023/3736.htm",
+            "tags": [
+                "985",
+                "211"
+            ],
+            "province": ""
+        },
+        {
+            "name": "深圳大学",
+            "institute": "ALL",
+            "description": "深圳大学将派专人跟踪服务考生进行推免申报，每位考生可同时填报3个志愿。深圳大学依托地区经济发展优势，进一步加大经费投入力度，通过提高待遇水平，吸引优质生源，鼓励学生专心学业。例如，学校为推免生及直博生提供丰厚的奖学金，以全日制脱产方式学习的硕士推免生，第一年获得的奖助学金均不少于23000元（直博生参考2025级不少于56000元，2026级博士奖助学金体系待定），表现优异的将不少于12万元，如累计学校现有国家助学金、荔研优学奖学金、社会（企业）奖学金等，一年所获奖助学金可超过20万元",
+            "deadline": "2025-10-20T00:00:00+08:00",
+            "website": "https://yz.szu.edu.cn/info/1041/13406.htm?sessionid=165002247",
+            "tags": [
+                "四非"
+            ],
+            "province": ""
+        },
+        {
+            "name": "华东师范大学",
+            "institute": "数据学院",
+            "description": "预推免",
+            "deadline": "2025-09-12T12:00:00+08:00",
+            "website": "https://mp.weixin.qq.com/s/UplaIQXFxboLGI-w7uR75g",
+            "tags": [
+                "985",
+                "211"
+            ],
+            "province": ""
+        },
+        {
+            "name": "西南大学",
+            "institute": "人工智能学院",
+            "description": "我院预推免将采用线下面试的形式。面试内容包括专业素质和能力测试50分、综合素质和能力测试30分、外语听说能力测试20分，总成绩为100分，面试分数低于60分为不合格。",
+            "deadline": "2025-09-16T17:00:00+08:00",
+            "website": "https://ai.swu.edu.cn/info/1109/3654.htm",
+            "tags": [
+                "211"
+            ],
+            "province": ""
+        },
+        {
+            "name": "西南大学",
+            "institute": "计算机与信息科学学院 软件学院",
+            "description": "预推免",
+            "deadline": "2025-09-16T00:00:00+08:00",
+            "website": "https://cis.swu.edu.cn/info/1145/5473.htm",
+            "tags": [
+                "211"
+            ],
+            "province": ""
+        },
+        {
+            "name": "中国科学院大学",
+            "institute": "工程科学学院",
+            "description": "预推免",
+            "deadline": "2025-09-15T00:00:00+08:00",
+            "website": "https://eng.ucas.ac.cn/index.php/zh-CN/xjgl-2/2702-2026",
+            "tags": [
+                "四非"
             ],
             "province": ""
         }
