@@ -551,9 +551,9 @@
         {
             "name": "北京师范大学",
             "institute": "人工智能学院",
-            "description": "优秀大学生夏令营暨昇思MindSpore大模型创新训练营的通知（第二期）",
-            "deadline": "2025-08-10T17:00:00+08:00",
-            "website": "https://ai.bnu.edu.cn/ggjxz/tzgg/d1a1d46bb85f452a982d8b54d6337c77.htm",
+            "description": "系统内材料收到情况最晚于9月11日23:59进行状态更新，推免复试时间暂定9月15-16日，具体安排后续通知，请考生一定提前合理安排行程、购买车票",
+            "deadline": "2025-09-11T12:00:00+08:00",
+            "website": "https://mp.weixin.qq.com/s/asTU-yiaDUL1lf6X3VQQkQ",
             "tags": [
                 "985",
                 "211"
@@ -1335,9 +1335,9 @@
         {
             "name": "中国人民大学",
             "institute": "高瓴人工智能学院",
-            "description": "考核项目专业考核内容\n数学（高等数学、线性代数、概率论）、程序设计、\n笔试所有专业数据结构、算法分析与设计、英语\n（共75分）\n专业课及综合素质（包括：数学、计算机、人工智\n能基础等)\n面试所有专业（共75分）\n英语听、说及综合能力\n（共50分）注：进入复试考核的同学，CCF CSP成绩在300分（含300分）以上，笔试成绩在原基础上增加10分（总分不超过75分）。",
-            "deadline": "2025-07-12T23:59:00+08:00",
-            "website": "http://ai.ruc.edu.cn/newslist/notice/20250620005.html",
+            "description": "进入复试考核的同学，CCF CSP成绩在300分（含300分）以上，笔试成绩在原基础上增加5分",
+            "deadline": "2025-09-07T23:59:00+08:00",
+            "website": "http://ai.ruc.edu.cn/newslist/notice/20250904001.html",
             "tags": [
                 "985",
                 "211"
@@ -1566,12 +1566,10 @@
         {
             "name": "复旦大学",
             "institute": "计算与智能创新学院",
-            "description": "本次夏令营活动拟于8月下旬进行",
-            "deadline": "2025-07-20T17:00:00+08:00",
-            "website": "https://cs.fudan.edu.cn/46/40/c24277a738880/page.htm",
+            "description": "_No response_",
+            "deadline": "2025-09-07T00:00:00+17:00",
+            "website": "2025-11-27T00:00:00+08:00",
             "tags": [
-                "C9",
-                "985",
                 "华五"
             ],
             "province": ""
@@ -1603,9 +1601,9 @@
         {
             "name": "西北工业大学",
             "institute": "无人系统技术研究院",
-            "description": "（1）“一流”大学建设高校本科生：本科前三年（或前五学期）平均学分积成绩位于所在专业的前50%。\n\n（2）“一流”学科建设高校本科生：本科前三年（或前五学期）平均学分积成绩位于所在专业的前25%。",
-            "deadline": "2025-07-06T21:00:00+08:00",
-            "website": "https://wurenxitong.nwpu.edu.cn/info/1108/9778.htm",
+            "description": "研究院分批次对推免生的报名信息进行初审，确定复试名单，向申请人发放复试通知",
+            "deadline": "2025-09-20T18:00:00+08:00",
+            "website": "https://wurenxitong.nwpu.edu.cn/info/1108/10258.htm",
             "tags": [
                 "985",
                 "211"
@@ -3727,6 +3725,124 @@
             "website": "https://eng.ucas.ac.cn/index.php/zh-CN/xjgl-2/2702-2026",
             "tags": [
                 "四非"
+            ],
+            "province": ""
+        },
+        {
+            "name": "广东工业大学",
+            "institute": "ALL",
+            "description": "我校将于9月中下旬起陆续开始复试资格审核，初审通过后，学院将联系考生通知具体复试时间及安排。",
+            "deadline": "2025-09-19T00:00:00+08:00",
+            "website": "https://yzw.gdut.edu.cn/info/1135/8125.htm",
+            "tags": [
+                "四非"
+            ],
+            "province": ""
+        },
+        {
+            "name": "西北工业大学",
+            "institute": "光电与智能研究院",
+            "description": "预推免",
+            "deadline": "2025-09-15T00:00:00+08:00",
+            "website": "https://iopen.nwpu.edu.cn/info/1051/7246.htm",
+            "tags": [
+                "985",
+                "211"
+            ],
+            "province": ""
+        },
+        {
+            "name": "长安大学",
+            "institute": "信息工程学院",
+            "description": "推免申请者请务必加入信息工程学院2026级推免复试QQ群，群号：850045875，加群截至时间2024年9月15日前。\n\n后续复试安排将在群内公布，申请加群方式为：姓名+学校。",
+            "deadline": "2025-9-16T00:00:00+08:00",
+            "website": "https://it.chd.edu.cn/2025/0901/c7382a254300/page.htm",
+            "tags": [
+                "211"
+            ],
+            "province": ""
+        },
+        {
+            "name": "中国科学技术大学",
+            "institute": "网络空间安全学院",
+            "description": "线下面试拟定于2025年9月14日进行",
+            "deadline": "2025-09-10T17:00:00+08:00",
+            "website": "https://cybersec.ustc.edu.cn/2025/0904/c23826a698699/page.htm",
+            "tags": [
+                "华五",
+                "C9",
+                "985",
+                "211"
+            ],
+            "province": ""
+        },
+        {
+            "name": "南昌大学",
+            "institute": "信息工程学院",
+            "description": "预计9月17日线下复试",
+            "deadline": "2025-09-14T00:00:00+08:00",
+            "website": "http://ie.ncu.edu.cn/xydt/tzgg/d374ef8d4d314e099f408cdfdc704094.htm",
+            "tags": [
+                "211"
+            ],
+            "province": ""
+        },
+        {
+            "name": "北京电子科技学院",
+            "institute": "ALL",
+            "description": "复试包括专业能力测试和综合能力测试、心理健康测试。专业能力测试考核程序设计（机试）内容。综合能力测试（面试）考查学生多方面的综合素质，着重考查学生科研创新潜力，对学科的认识、学科知识的综合应用能力，考生知识背景等。心理健康测试不计入复试成绩，仅作为参考依据，不参评考生不予录取。具体复试时间和安排以钉钉群（见问卷）通知为准",
+            "deadline": "2025-09-19T00:00:00+08:00",
+            "website": "https://www.besti.edu.cn/600/2471.html",
+            "tags": [
+                "四非"
+            ],
+            "province": ""
+        },
+        {
+            "name": "苏州科技大学",
+            "institute": "ALL",
+            "description": "9月22日国家系统开通后，考生须登录“推免服务系统”正式填报我校相关专业志愿，并在系统内接收复试通知、待录取通知等",
+            "deadline": "2025-09-19T16:00:00+08:00",
+            "website": "https://yjsb.usts.edu.cn/info/1048/4317.htm",
+            "tags": [
+                "四非"
+            ],
+            "province": ""
+        },
+        {
+            "name": "上海交通大学",
+            "institute": "计算机学院（网络空间安全学院、密码学院）",
+            "description": "“双一流”建设高校及建设学科的理工科专业本科四年级在校",
+            "deadline": "2025-09-09T10:00:00+08:00",
+            "website": "https://mp.weixin.qq.com/s/2rj_KZVFouiRkk72B5wToQ",
+            "tags": [
+                "华五",
+                "C9",
+                "985",
+                "211"
+            ],
+            "province": ""
+        },
+        {
+            "name": "武汉大学",
+            "institute": "机器人学院",
+            "description": "考核时间定于9月13日。具体时间、地点和形式通过QQ群通知。原则上武汉市内考生须线下参加考核，武汉市外考生可选择线上考核",
+            "deadline": "2025-09-10T00:00:00+08:00",
+            "website": "https://mp.weixin.qq.com/s/0p--_CJeVRM1ZikfyyQUAQ",
+            "tags": [
+                "985",
+                "211"
+            ],
+            "province": ""
+        },
+        {
+            "name": "辽宁大学",
+            "institute": "信息学部",
+            "description": "本次考核通过网络远程方式依托腾讯会议软件进行复试考核。符合条件的申请人持本人身份证按要求参加考核",
+            "deadline": "2025-09-14T00:00:00+08:00",
+            "website": "https://sist.lnu.edu.cn/info/12675/2112.htm",
+            "tags": [
+                "211"
             ],
             "province": ""
         }
