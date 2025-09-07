@@ -540,11 +540,12 @@
         {
             "name": "北京师范大学",
             "institute": "文理学院",
-            "description": "_No response_",
-            "deadline": "2025-06-15T23:59:59+08:00",
-            "website": "https://fas.bnu.edu.cn/xwdt/tzgg/cf10654007224bf083a1f961611ab37c.htm",
+            "description": "获得复试资格的申请人应在参加复试前，通过我校推免申请系统缴纳复试费 100元/人",
+            "deadline": "2025-09-11T23:59:00+08:00",
+            "website": "https://fas.bnu.edu.cn/xwdt/tzgg/72865475db0746eb95398f266a6c9130.htm",
             "tags": [
-                "985"
+                "985",
+                "211"
             ],
             "province": ""
         },
@@ -2089,12 +2090,12 @@
         {
             "name": "国防科技大学",
             "institute": "计算机学院",
-            "description": "为参加线下活动的营员免费提供讲义、文具等学习资料和用品，免收学杂费，按标准提供免费食宿。最终推免录取为计算机学院研究生的营员按不超过高铁二等座标准提供往返交通补助。",
-            "deadline": "2025-07-11T00:00:00+08:00",
-            "website": "http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=14505",
+            "description": "第二批复试时间预计9月15-17日，具体安排将于推免通知群内另行通知。",
+            "deadline": "2025-09-11T00:00:00+08:00",
+            "website": "http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=14618",
             "tags": [
-                "985",
-                "211"
+                "211",
+                "985"
             ],
             "province": ""
         },
@@ -2243,9 +2244,9 @@
         {
             "name": "中南大学",
             "institute": "国家卓越工程师学院",
-            "description": "1405智能科学与技术、089901新能源与储能工程、0854电子信息、0856材料与化工、0857资源与环境、0858能源动力",
-            "deadline": "2025-07-18T00:00:00+08:00",
-            "website": "https://ngce.csu.edu.cn/info/1015/1366.htm",
+            "description": "面试原则上采用线下考核，在中南大学岳麓山校区进行，具体时间及安排将通过电话或短信通知学生本人",
+            "deadline": "2025-09-11T00:00:00+08:00",
+            "website": "https://ngce.csu.edu.cn/info/1015/1392.htm",
             "tags": [
                 "985",
                 "211"
@@ -3754,8 +3755,8 @@
         {
             "name": "长安大学",
             "institute": "信息工程学院",
-            "description": "推免申请者请务必加入信息工程学院2026级推免复试QQ群，群号：850045875，加群截至时间2024年9月15日前。\n\n后续复试安排将在群内公布，申请加群方式为：姓名+学校。",
-            "deadline": "2025-9-16T00:00:00+08:00",
+            "description": "1．登录长安大学推免生预报名系统（http://49.233.141.142/xly/login）填写有关信息、上传附件材料并提交申请。\n\n2．推免申请者请务必加入信息工程学院2026级推免复试QQ群，群号：850045875，加群截至时间2025年9月15日前。\n\n后续复试安排将在群内公布，申请加群方式为：姓名+学校。",
+            "deadline": "2025-09-16T00:00:00+08:00",
             "website": "https://it.chd.edu.cn/2025/0901/c7382a254300/page.htm",
             "tags": [
                 "211"
@@ -3841,6 +3842,126 @@
             "description": "本次考核通过网络远程方式依托腾讯会议软件进行复试考核。符合条件的申请人持本人身份证按要求参加考核",
             "deadline": "2025-09-14T00:00:00+08:00",
             "website": "https://sist.lnu.edu.cn/info/12675/2112.htm",
+            "tags": [
+                "211"
+            ],
+            "province": ""
+        },
+        {
+            "name": "华东师范大学",
+            "institute": "空间人工智能学院",
+            "description": "预推免",
+            "deadline": "2025-09-10T15:00:00+08:00",
+            "website": "https://mp.weixin.qq.com/s/OrwEpKQiLbaXvaoofWy0UQ",
+            "tags": [
+                "985",
+                "211"
+            ],
+            "province": ""
+        },
+        {
+            "name": "华东师范大学",
+            "institute": "软件工程学院（滴水湖国际软件学院）",
+            "description": "预推免",
+            "deadline": "2025-09-12T09:00:00+08:00",
+            "website": "https://mp.weixin.qq.com/s/qkHOE03KwFUA0RF4i5F04w?click_id=110&scene=1",
+            "tags": [
+                "985",
+                "211"
+            ],
+            "province": ""
+        },
+        {
+            "name": "电子科技大学",
+            "institute": "基础与前沿研究院",
+            "description": "“基础与前沿科学”夏令营优秀营员仍需在系统里报名并参加统一考核；",
+            "deadline": "2025-09-11T12:00:00+08:00",
+            "website": "https://www.iffs.uestc.edu.cn/info/1049/6804.htm",
+            "tags": [
+                "985",
+                "211"
+            ],
+            "province": ""
+        },
+        {
+            "name": "中南大学",
+            "institute": "自动化学院",
+            "description": "9月12日-9月14日线下面试",
+            "deadline": "2025-09-09T20:00:00+08:00",
+            "website": "https://soa.csu.edu.cn/info/1032/9027.htm",
+            "tags": [
+                "985",
+                "211"
+            ],
+            "province": ""
+        },
+        {
+            "name": "武汉大学",
+            "institute": "计算机学院",
+            "description": "我院考核采用线上线下相结合的方式，具体以QQ群中发布的时间安排为准。\n\n获得我院A营员且有意愿攻读我院研究生的推免生必须在预推免系统中报名，可优先进入推免复试名单",
+            "deadline": "2025-09-10T14:00:00+08:00",
+            "website": "https://cs.whu.edu.cn/info/1071/55981.htm",
+            "tags": [
+                "985",
+                "211"
+            ],
+            "province": ""
+        },
+        {
+            "name": "中国科学技术大学",
+            "institute": "工程硕博士培养改革专项",
+            "description": "暂定9月17日前完成考核，三个工作日左右发布考核结果（未通过本专项考核的考生，如果符合条件，可继续申请其他推免招生）",
+            "deadline": "2025-09-10T18:00:00+08:00",
+            "website": "https://yz.ustc.edu.cn/article/2796/182?num=-1",
+            "tags": [
+                "华五",
+                "C9",
+                "985",
+                "211"
+            ],
+            "province": ""
+        },
+        {
+            "name": "央财经大学",
+            "institute": "ALL",
+            "description": "考核时间拟定为9月17日-9月19日。报名截止后，学院会根据考生报名信息和提交的补充材料（如需）进行复试资格评定，并依据招生名额和资格评定成绩给予考生复试资格。复试比例原则上不超过500%。",
+            "deadline": "2025-09-14T17:00:00+08:00",
+            "website": "https://gs.cufe.edu.cn/info/1028/6394.htm",
+            "tags": [
+                "211"
+            ],
+            "province": ""
+        },
+        {
+            "name": "北京理工大学",
+            "institute": "网络空间安全学院",
+            "description": "各学科方向组织面试，面试内容及方式由各方向独立确定",
+            "deadline": "2025-09-14T00:00:00+08:00",
+            "website": "https://cst.bit.edu.cn/xxfw/tzgg/85651741e5be49e5b64a99b254ca6770.htm",
+            "tags": [
+                "985",
+                "211"
+            ],
+            "province": ""
+        },
+        {
+            "name": "北京理工大学（珠海）",
+            "institute": "ALL",
+            "description": "珠海校区根据申请情况，对申请人提交的材料进行评审，审核通过后，由专人通知申请人考核时间和具体要求。",
+            "deadline": "2025-09-10T00:00:00+08:00",
+            "website": "https://zh.bit.edu.cn/info/2871/20321.htm",
+            "tags": [
+                "985",
+                "211"
+            ],
+            "province": ""
+        },
+        {
+            "name": "南昌大学",
+            "institute": "软件学院",
+            "description": "预推免复试日程安排：2025年9月中旬（具体时间另行通知），复试采取线下的形式进行",
+            "deadline": "2025-09-16T00:00:00+08:00",
+            "website": "https://soft.ncu.edu.cn/xydt/tzgg/50c82e663e2444f8b30b5cfba9ddcbc5.htm",
             "tags": [
                 "211"
             ],
