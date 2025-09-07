@@ -1941,9 +1941,9 @@
         {
             "name": "国防科技大学",
             "institute": "智能科学学院",
-            "description": "本科前2.5年综合成绩在本专业排名：原则上符合原“一流大学”建设高校（教育部第一轮公布的42所）前30%，其他“双一流”建设高校（教育部第二轮公布）前15%，其他具有推免资格普通高校前5%（或专业前2名）",
-            "deadline": "2025-07-08T19:00:00+08:00",
-            "website": "http://yjszs.nudt.edu.cn/pubweb/homePageList/newDetailed.view?keyId=14508",
+            "description": "学院计划于9月18日左右进行复试，具体要求将在学院预推免面试QQ群发布（复试群号随复试通知一起发送）",
+            "deadline": "2025-09-15T00:00:00+08:00",
+            "website": "http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=14625",
             "tags": [
                 "985",
                 "211"
@@ -3963,6 +3963,79 @@
             "deadline": "2025-09-16T00:00:00+08:00",
             "website": "https://soft.ncu.edu.cn/xydt/tzgg/50c82e663e2444f8b30b5cfba9ddcbc5.htm",
             "tags": [
+                "211"
+            ],
+            "province": ""
+        },
+        {
+            "name": "上海交通大学",
+            "institute": "自动化与感知学院",
+            "description": "已获得我院2025年7月优秀生源身份的同学本轮不需要再报名，7月硕士优秀生源的同学欲报名，需先放弃硕士优秀生源资格",
+            "deadline": "2025-09-10T10:00:00+08:00",
+            "website": "https://mp.weixin.qq.com/s/_mn0ScGru9t_wYINKG6WIA",
+            "tags": [
+                "华五",
+                "C9",
+                "985",
+                "211"
+            ],
+            "province": ""
+        },
+        {
+            "name": "南京大学",
+            "institute": "南京大学计算机学院",
+            "description": "工程硕博专项",
+            "deadline": "2025-09-10T23:59:59+08:00",
+            "website": "https://table.nju.edu.cn/apps/custom/gs-engineering-program/?page_id=pXAD",
+            "tags": [
+                "华五"
+            ],
+            "province": ""
+        },
+        {
+            "name": "武汉大学",
+            "institute": "国家网络安全学院",
+            "description": "非校园网用户可访问系统时间为6:00-24：00",
+            "deadline": "2025-09-13T12:00:00+08:00",
+            "website": "https://cse.whu.edu.cn/info/2501/40801.htm",
+            "tags": [
+                "985",
+                "211"
+            ],
+            "province": ""
+        },
+        {
+            "name": "北京航空航天大学",
+            "institute": "网络空间安全学院",
+            "description": "综合面试总成绩300分，英语能力、数理基础和专业基础中，任一项低于60分或思想政治素质和品德考核不合格，不予拟录取。",
+            "deadline": "2025-09-14T23:00:00+08:00",
+            "website": "https://cst.buaa.edu.cn/info/1071/4308.htm",
+            "tags": [
+                "C9",
+                "985",
+                "211"
+            ],
+            "province": ""
+        },
+        {
+            "name": "中央财经大学",
+            "institute": "信息学院",
+            "description": "考核时间拟定为9月17日-9月19日。",
+            "deadline": "2025-09-14T17:00:00+08:00",
+            "website": "https://ie.cufe.edu.cn/info/1069/7048.htm",
+            "tags": [
+                "211"
+            ],
+            "province": ""
+        },
+        {
+            "name": "重庆大学",
+            "institute": "国家卓越工程师学院",
+            "description": "线下/线上面试。9月中下旬，具体时间及安排另行通知",
+            "deadline": "2025-09-17T12:00:00+08:00",
+            "website": "https://eie.cqu.edu.cn/info/1483/3507.htm",
+            "tags": [
+                "985",
                 "211"
             ],
             "province": ""
