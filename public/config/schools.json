@@ -4039,6 +4039,45 @@
                 "211"
             ],
             "province": ""
+        },
+        {
+            "name": "中国科学技术大学",
+            "institute": "卓越工程师学院（先进技术研究院）",
+            "description": "_No response_",
+            "deadline": "2025-09-17T23:59:59+08:00",
+            "website": "https://iat.ustc.edu.cn/iat/x198/20250903/7571.html",
+            "tags": [
+                "华五",
+                "C9",
+                "985",
+                "211"
+            ],
+            "province": ""
+        },
+        {
+            "name": "中国科学技术大学",
+            "institute": "电子工程与信息科学系",
+            "description": "_No response_",
+            "deadline": "2025-09-15T23:59:59+08:00",
+            "website": "https://eeis.ustc.edu.cn/2025/0903/c2702a698535/page.htm",
+            "tags": [
+                "华五"
+            ],
+            "province": ""
+        },
+        {
+            "name": "浙江大学",
+            "institute": "基础交叉博士生专项",
+            "description": "基础交叉直博生\n各院系报名开始和截止时间、联系方式及报考说明请见2026年各院系免试生报考说明",
+            "deadline": "2025-09-22T00:00:00+08:00",
+            "website": "https://futre.zju.edu.cn/2025/0906/c83566a3078113/page.htm",
+            "tags": [
+                "华五",
+                "C9",
+                "985",
+                "211"
+            ],
+            "province": ""
         }
     ],
     "camp2024": [
