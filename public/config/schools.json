@@ -949,9 +949,9 @@
         {
             "name": "深圳大学",
             "institute": "计算机与软件学院",
-            "description": "校外学员在夏令营学习期间可以免费入住深圳大学校内宿舍，此外，还为每位校外学员提供共800元的食宿补助、交通补助和短期保险。",
-            "deadline": "2025-07-01T00:00:00+08:00",
-            "website": "https://mp.weixin.qq.com/s/lHSVRz6jjc8V1H2oiR-G3g",
+            "description": "报名成功后进行分批次面试，具体面试时间将在2026级推免生招生通知QQ群内进行通知。",
+            "deadline": "2025-09-18T00:00:00+08:00",
+            "website": "https://mp.weixin.qq.com/s/mKYbpEEWL-Ok0zxnnDm46w",
             "tags": [
                 "四非"
             ],
@@ -1348,11 +1348,12 @@
         {
             "name": "武汉大学",
             "institute": "人工智能学院",
-            "description": "_No response_",
-            "deadline": "2025-06-29T23:59:59+08:00",
-            "website": "https://sai.whu.edu.cn/info/1601/8151.htm",
+            "description": "请符合报名条件的考生（包括已经取得夏令营A类营员资格的考生，否则视为放弃A类营员资格 ）登录我校推免生申请系统进行预报名",
+            "deadline": "2025-09-14T17:00:00+08:00",
+            "website": "https://sai.whu.edu.cn/info/1601/9731.htm",
             "tags": [
-                "985"
+                "985",
+                "211"
             ],
             "province": ""
         },
@@ -4075,6 +4076,17 @@
                 "华五",
                 "C9",
                 "985",
+                "211"
+            ],
+            "province": ""
+        },
+        {
+            "name": "北京化工大学",
+            "institute": "信息科学与技术学院",
+            "description": "本次复试只采取现场面试形式。面试时间定于2025 年9 月15日-19日之间。视情况可能组织的第二次面试将安排于9 月22 日之后。具体安排将另行通知",
+            "deadline": "2025-09-15T17:00:00+08:00",
+            "website": "https://graduate.buct.edu.cn/_upload/article/files/78/9e/c4a680c84d17857554739f806ea5/8ddc3af4-3396-43c8-8cb3-e713f7b79184.pdf",
+            "tags": [
                 "211"
             ],
             "province": ""
