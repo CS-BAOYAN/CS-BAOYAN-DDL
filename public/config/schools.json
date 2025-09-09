@@ -4126,6 +4126,39 @@
                 "211"
             ],
             "province": ""
+        },
+        {
+            "name": "北京交通大学",
+            "institute": "软件学院",
+            "description": "_No response_",
+            "deadline": "2025-09-13T00:00:00+08:00",
+            "website": "http://rjxy.bjtu.edu.cn/cms/item/1083.html",
+            "tags": [
+                "211"
+            ],
+            "province": ""
+        },
+        {
+            "name": "哈尔滨工程大学",
+            "institute": "计算机科学与技术学院",
+            "description": "预推免",
+            "deadline": "2025-09-21T21:00:00+08:00",
+            "website": "https://cstc.hrbeu.edu.cn/2025/0908/c3688a340748/page.htm",
+            "tags": [
+                "211"
+            ],
+            "province": ""
+        },
+        {
+            "name": "北京交通大学",
+            "institute": "计算机学院",
+            "description": "_No response_",
+            "deadline": "2025-09-13T00:00:00+08:00",
+            "website": "https://cs.bjtu.edu.cn/zsjy/yjszs3/yjszs_sszs/d91fc1058e764e48ae137b259cb0f3fe.htm",
+            "tags": [
+                "211"
+            ],
+            "province": ""
         }
     ],
     "camp2024": [
