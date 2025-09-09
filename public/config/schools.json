@@ -196,13 +196,15 @@
         {
             "name": "哈尔滨工业大学",
             "institute": "计算学部",
-            "description": "_No response_",
-            "deadline": "2025-06-08T00:00:00+08:00",
-            "website": "http://computing.hit.edu.cn/2025/0507/c11271a369599/pagem.htm",
+            "description": "面试时间将在审核通过后，根据报名情况适时安排。面试形式、地点以通知为准",
+            "deadline": "2025-09-12T00:00:00+08:00",
+            "website": "https://cs.hit.edu.cn/2025/0909/c11271a377322/pagem.htm",
             "tags": [
                 "C9",
-                "985"
-            ]
+                "985",
+                "211"
+            ],
+            "province": ""
         },
         {
             "name": "上海科技大学",
@@ -836,11 +838,14 @@
         {
             "name": "上海交通大学",
             "institute": "人工智能学院",
-            "description": "_No response_",
-            "deadline": "2025-07-04T00:00:00+08:00",
-            "website": "https://soai.sjtu.edu.cn/cn/show/322",
+            "description": "复试：9月18日左右，具体安排将通过邮件和短信通知",
+            "deadline": "2025-09-13T17:00:00+08:00",
+            "website": "https://mp.weixin.qq.com/s/ABRzw6mtK2bvOVzdMMcDHA?scene=1",
             "tags": [
-                "华五"
+                "华五",
+                "C9",
+                "985",
+                "211"
             ],
             "province": ""
         },
@@ -4195,6 +4200,42 @@
             "tags": [
                 "C9",
                 "985",
+                "211"
+            ],
+            "province": ""
+        },
+        {
+            "name": "复旦大学",
+            "institute": "多个",
+            "description": "_No response_",
+            "deadline": "2025-09-08T16:00:00+08:00",
+            "website": "https://gsao.fudan.edu.cn/5f/32/c15014a745266/page.htm",
+            "tags": [
+                "华五"
+            ],
+            "province": ""
+        },
+        {
+            "name": "中国科学与技术",
+            "institute": "人工智能与数据科学学院",
+            "description": "面试拟定于2025年9月15日-18日期间进行，具体时间安排及详细流程将通过邮件通知，请考生密切关注",
+            "deadline": "2025-09-12T00:00:00+08:00",
+            "website": "https://saids.ustc.edu.cn/2025/0907/c15435a699114/page.htm",
+            "tags": [
+                "华五",
+                "C9",
+                "985",
+                "211"
+            ],
+            "province": ""
+        },
+        {
+            "name": "中国地质大学（北京）",
+            "institute": "人工智能学院",
+            "description": "复试时间：2025 年 9 月 18 日上午 8:30-10：30 笔试，下午 13：00-18：00 面试。参加复试人员为在我校“推免服务系统”报名、审核通过并缴费的同学，请携带身份证原件参加笔试",
+            "deadline": "2025-09-15T14:00:00+08:00",
+            "website": "https://bm.cugb.edu.cn/yjsyzsb/c/2025-09-09/831681.shtml",
+            "tags": [
                 "211"
             ],
             "province": ""
