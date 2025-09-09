@@ -4090,6 +4090,42 @@
                 "211"
             ],
             "province": ""
+        },
+        {
+            "name": "西安交通大学",
+            "institute": "All",
+            "description": "预推免",
+            "deadline": "2025-09-16T00:00:00+08:00",
+            "website": "https://yz.xjtu.edu.cn/2026tmzc.pdf",
+            "tags": [
+                "C9",
+                "985",
+                "211"
+            ],
+            "province": ""
+        },
+        {
+            "name": "山东大学",
+            "institute": "低空科学与工程学院",
+            "description": "计算机学科：机试；时间地点：另行通知\n\n面试时间19日8:00；地点：知行北楼515",
+            "deadline": "2025-09-14T17:00:00+08:00",
+            "website": "https://ie.wh.sdu.edu.cn/info/1031/1439.htm",
+            "tags": [
+                "985",
+                "211"
+            ],
+            "province": ""
+        },
+        {
+            "name": "河北工业大学",
+            "institute": "人工智能与数据科学学院",
+            "description": "复试形式初步定为线下，学院将根据报名情况分批次及时安排复试。\n\n复试时间预计为2025年9月20日，具体复试时间和复试形式另行邮件或QQ群内通知。",
+            "deadline": "2025-09-17T00:00:00+08:00",
+            "website": "https://ai.hebut.edu.cn/rcpy/yjspy/yjszsgz/2fd5b2783ca5460e82dd38c71b878e9a.htm",
+            "tags": [
+                "211"
+            ],
+            "province": ""
         }
     ],
     "camp2024": [
