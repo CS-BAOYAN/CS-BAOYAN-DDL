@@ -437,11 +437,11 @@
         {
             "name": "中国科学院大学",
             "institute": "前沿交叉科学学院",
-            "description": "前沿交叉科学学院定于2025年6月19日-22日线上举办“2025年优秀大学生夏令营”活动，主要面向人工智能、集成电路、量子科技和生物制造等领域。",
-            "deadline": "2025-05-31T00:00:00+08:00",
-            "website": "https://sais.ucas.ac.cn/index.php/zh/xwgs/tgzs/1326-2025-2",
+            "description": "复试名单公布：2025年9月14日\n\n复试时间：2025年9月16日",
+            "deadline": "2025-09-14T00:00:00+08:00",
+            "website": "https://sais.ucas.ac.cn/index.php/zh/xwgs/tgzs/1369-2026",
             "tags": [
-                "双非"
+                "四非"
             ],
             "province": ""
         },
@@ -1502,9 +1502,9 @@
         {
             "name": "北京邮电大学",
             "institute": "计算机学院（国家示范性软件学院）",
-            "description": "北京邮电大学计算机学院（国家示范性软件学院）将面向全国优秀大学生举办夏令营活动，活动内容主要包括参观导师实验室、招生团队情况介绍、师生交流等形式。",
-            "deadline": "2025-07-07T00:00:00+08:00",
-            "website": "https://scs.bupt.edu.cn/info/1050/4215.htm",
+            "description": "预推免",
+            "deadline": "2025-09-14T00:00:00+08:00",
+            "website": "https://scs.bupt.edu.cn/info/1050/4239.htm",
             "tags": [
                 "211"
             ],
@@ -1655,9 +1655,9 @@
         {
             "name": "北京航空航天大学",
             "institute": "无人系统研究院",
-            "description": "航空航天类、电子信息类、控制类、计算机类、人工智能类等相关专业优先",
-            "deadline": "2025-07-08T18:00:00+08:00",
-            "website": "https://wrj.buaa.edu.cn/info/1008/2609.htm",
+            "description": "资格审查结果和复试通知预计在9月17日前以短信的方式分批发放",
+            "deadline": "2025-09-15T18:00:00+08:00",
+            "website": "https://wrj.buaa.edu.cn/info/1008/2659.htm",
             "tags": [
                 "985",
                 "211"
@@ -2274,11 +2274,12 @@
         {
             "name": "大连理工大学",
             "institute": "软件学院",
-            "description": "入选研学营的学生餐食及营服统一安排，费用全免",
-            "deadline": "2025-7-1212:00:00+08:00",
-            "website": "https://ss.dlut.edu.cn/info/1321/27481.htm",
+            "description": "我院计划在9月下旬进行复试，具体时间及要求详见系统及钉钉群后续通知",
+            "deadline": "2025-09-12T08:00:00+08:00",
+            "website": "https://ss.dlut.edu.cn/info/1321/28201.htm",
             "tags": [
-                "985"
+                "985",
+                "211"
             ],
             "province": ""
         },
@@ -4286,6 +4287,122 @@
             "deadline": "2025-09-19T00:00:00+08:00",
             "website": "https://cs.cumt.edu.cn/info/1072/6637.htm",
             "tags": [
+                "211"
+            ],
+            "province": ""
+        },
+        {
+            "name": "中国科学院",
+            "institute": "重庆研究院",
+            "description": "申请人按照规定的时间参加复试考核，考核方式和具体时间安排以邮件通知为准。考核内容主要包括思想政治品德、专业素质和能力测试、外国语听力和口语测试以及体检。",
+            "deadline": "2025-09-27T00:00:00+08:00",
+            "website": "https://cigit.cas.cn/yjsjy/bszs/bsjz/202509/t20250910_7964574.html",
+            "tags": [
+                "研究院"
+            ],
+            "province": ""
+        },
+        {
+            "name": "电子科技大学",
+            "institute": "信息与软件工程学院",
+            "description": "9月18日线下复试（含直博生）沙河校区主楼中、主楼东",
+            "deadline": "2025-09-15T09:00:00+08:00",
+            "website": "https://sise.uestc.edu.cn/info/1026/13675.htm",
+            "tags": [
+                "985",
+                "211"
+            ],
+            "province": ""
+        },
+        {
+            "name": "西安交通大学",
+            "institute": "电子与信息学部软件学院",
+            "description": "推免生报名工作结束后，我院将组织专家对所有推免生报名同学进行复试，复试通过的同学确认为预接收（拟录取/预录取），在教育部正式推免系统开放后不再参加考核，直接通过系统完成报名录取流程",
+            "deadline": "2025-09-16T00:00:00+08:00",
+            "website": "https://se.xjtu.edu.cn/info/1043/3507.htm",
+            "tags": [
+                "C9",
+                "985",
+                "211"
+            ],
+            "province": ""
+        },
+        {
+            "name": "西安交通大学",
+            "institute": "人工智能学院",
+            "description": "本次报名为学校推免服务系统报名。后续考核及录取安排，以学院具体细则通知为准",
+            "deadline": "2025-09-15T23:59:00+08:00",
+            "website": "https://iair.xjtu.edu.cn/info/1004/3815.htm",
+            "tags": [
+                "C9",
+                "985",
+                "211"
+            ],
+            "province": ""
+        },
+        {
+            "name": "北京交通大学",
+            "institute": "自动化与智能学院",
+            "description": "9月17日前，复试小组通过邮件、电话、短信等途径发出复试通知，复试具体时间、方式等信息也由复试小组告知。学校的“推免预报名系统”我院仅用于前期复试信息采集，学院不会在复试前通过该系统发放复试通知",
+            "deadline": "2025-09-13T00:00:00+08:00",
+            "website": "https://ai.bjtu.edu.cn/tzgg/rcpytzgg/6daa2449b6964e0499952dd1eeb6f561.htm",
+            "tags": [
+                "211"
+            ],
+            "province": ""
+        },
+        {
+            "name": "中国石油大学（华东）",
+            "institute": "青岛软件学院、计算机科学与技术学院",
+            "description": "各导师组审核申请者信息并对通过审核的学生组织复试，复试考核方式为面试，具体安排由导师通知",
+            "deadline": "2025-09-19T00:00:00+08:00",
+            "website": "https://computer.upc.edu.cn/2025/0909/c21961a470450/page.htm",
+            "tags": [
+                "211"
+            ],
+            "province": ""
+        },
+        {
+            "name": "山西大学",
+            "institute": "计算机与信息技术学院",
+            "description": "预推免",
+            "deadline": "2025-09-20T12:00:00+08:00",
+            "website": "https://mp.weixin.qq.com/s/8GvXNZpc-r3s_hjfxusrFQ",
+            "tags": [
+                "双非"
+            ],
+            "province": ""
+        },
+        {
+            "name": "深圳大学",
+            "institute": "大湾区国际创新学院和人工智能学院联培",
+            "description": "预推免",
+            "deadline": "2025-09-10T00:00:00+08:00",
+            "website": "https://mp.weixin.qq.com/s/Iu2aVKksz6OvgEYMZt-BAA",
+            "tags": [
+                "四非"
+            ],
+            "province": ""
+        },
+        {
+            "name": "南通大学",
+            "institute": "ALL",
+            "description": "Wali母校，强推荐",
+            "deadline": "2025-10-21T00:00:00+08:00",
+            "website": "https://yjszs.ntu.edu.cn/2025/0909/c7625a272390/page.htm",
+            "tags": [
+                "四非"
+            ],
+            "province": ""
+        },
+        {
+            "name": "电子科技大学",
+            "institute": "计算机科学与工程学院（网络空间安全学院）",
+            "description": "预推免",
+            "deadline": "2025-09-17T12:00:00+08:00",
+            "website": "https://www.scse.uestc.edu.cn/info/1015/17362.htm",
+            "tags": [
+                "985",
                 "211"
             ],
             "province": ""
