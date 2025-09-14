@@ -293,9 +293,9 @@
         {
             "name": "东北师范大学",
             "institute": "信息科学与技术学院",
-            "description": "_No response_",
-            "deadline": "2025-06-26T17:00:00+08:00",
-            "website": "https://ist.nenu.edu.cn/info/1157/5991.htm",
+            "description": "各专业将择优选拔进入复试的推免申请学生，2025年9月16日15:00前通过电话和邮件发送复试通知，最终复试名单会于2025年9月17日14:00前在QQ群中发布",
+            "deadline": "2025-09-16T10:00:00+08:00",
+            "website": "https://ist.nenu.edu.cn/info/1157/6181.htm",
             "tags": [
                 "211"
             ],
@@ -589,9 +589,9 @@
         {
             "name": "吉林大学",
             "institute": "软件学院",
-            "description": "- 考核成绩可以做为推免阶段的重要参考依据\n- 我院开放日活动不收取任何费用，申请人的交通和食宿自理。对于最终被学校推免录取的异地学生，学院按照财务报销规定，给予路费补贴（请提供实际发生费用票据，按火车硬座标准）",
-            "deadline": "2025-06-20T11:00:00+08:00",
-            "website": "https://csw.jlu.edu.cn/info/1156/7879.htm",
+            "description": "（1）上机考试：考核推免生对专业知识的应用、实践经验以及程序设计能力。（100分）\n\n（2）笔试：《算法设计综合》（100分）\n\n（3）面试：综合素质、能力测试和外语听说能力测试（100分）",
+            "deadline": "2025-09-15T15:00:00+08:00",
+            "website": "http://csw.jlu.edu.cn/info/1156/7969.htm",
             "tags": [
                 "985",
                 "211"
@@ -909,9 +909,9 @@
         {
             "name": "华中师范大学",
             "institute": "人工智能教育学部",
-            "description": "本次夏令营将根据学生综合考核表现评选一定比例的优秀营员和合格营员，优秀营员比例不低于参营人员的50%，名单将在学部网站上公示（http://foaie.ccnu.edu.cn/），并为学员提供夏令营学习证明。相关政策如下：\n1.取得所在学校“推免资格”的优秀营员、合格营员，在参加本单位2026年推免生复试（一般在9月中下旬进行）并考核合格后，同等条件下优先录取。\n2.考核合格及以上的营员，在2026年全国硕士研究生招生统一考试中初试成绩达到我校复试分数线（一志愿考生），经复试考核合格后，同等条件下优先录取。\n\n学部为所有营员解决在营期间的餐食，为异地营员免费提供夏令营期间在汉的住宿。武汉市内营员原则上自行解决住宿，如有特殊情况可提出申请。入选营员如后期被我部录取为2026级研究生（包括推免生），学部将在后续提供参加本次夏令营的往返差旅补贴（按学校所在地往返武汉的普通硬座、硬卧或动车、高铁二等座及以下标准车票价格计算，需提供原始票据）",
-            "deadline": "2025-06-23T00:00:00+08:00",
-            "website": "https://foaie.ccnu.edu.cn/info/1008/9383.htm",
+            "description": "预推免",
+            "deadline": "2025-09-15T00:00:00+08:00",
+            "website": "https://foaie.ccnu.edu.cn/info/1008/9893.htm",
             "tags": [
                 "211"
             ],
@@ -1318,9 +1318,9 @@
         {
             "name": "西南交通大学",
             "institute": "计算机与人工智能学院",
-            "description": "1.时间：2025年7月3日--2025年7月4日，为期 2 天；\n2.活动形式：线上（腾讯会议）；\n3.接收人数：300人；\n4.活动内容：学术讲座+团队介绍+个人展示+团队互动；",
-            "deadline": "2025-06-27T17:00:00+08:00",
-            "website": "https://scai.swjtu.edu.cn/web/page-newsDetail.html?nid=f5911baa-a438-4f16-a1ea-1db2bd244ca0",
+            "description": "学院对参与意向征集的同学所提供的信息进行审核，审核通过的学生可参加学院组织的师生见面会， 后续详细信息请密切关注计算机与人工智能学院官网通知或密切关注邮箱。",
+            "deadline": "2025-09-22T00:00:00+08:00",
+            "website": "https://scai.swjtu.edu.cn/web/page-newsDetail.html?nid=376c0648-2b57-40de-9958-2a94918ece79",
             "tags": [
                 "211"
             ],
@@ -1491,9 +1491,9 @@
         {
             "name": "南京师范大学",
             "institute": "计算机与电子信息学院/人工智能学院",
-            "description": "活动场所：线上（使用的网络平台、具体日程安排及确定学员名单后续通知）",
-            "deadline": "2025-07-01T00:00:00+08:00",
-            "website": "http://ceai.njnu.edu.cn/info/1551/18311.htm",
+            "description": "我院将在9月17-21日间组织复试，复试的具体时间和安排将在推免生钉钉群通知",
+            "deadline": "2025-09-17T00:00:00+08:00",
+            "website": "https://ceai.njnu.edu.cn/info/1551/18741.htm",
             "tags": [
                 "211"
             ],
@@ -2286,9 +2286,9 @@
         {
             "name": "北京理工大学",
             "institute": "前沿交叉科学院",
-            "description": "线上",
-            "deadline": "2025-07-15T00:00:00+08:00",
-            "website": "https://sis.bit.edu.cn/tzgg/4af77b67dabb48cd92f115b69f6a1cc3.htm?sessionid=-208621919",
+            "description": "通过初审的同学将在9月20日前分批次完成复试，复试具体安排各学科组另行通知",
+            "deadline": "2025-09-15T12:00:00+08:00",
+            "website": "https://sis.bit.edu.cn/tzgg/3594477160634d8f8d8d131228550c1c.htm",
             "tags": [
                 "985",
                 "211"
@@ -2344,9 +2344,9 @@
         {
             "name": "华北电力大学",
             "institute": "控制与计算机工程学院",
-            "description": "本次暑期学术交流活动不收取任何费用，学生饮食、住宿、交通费用自理，参加交流活动期间，学生安全由其本人负责",
-            "deadline": "2025-07-15T12:00:00+08:00",
-            "website": "https://cce.ncepu.edu.cn/tztg1/c00a33d488684101b1f553a37c4b2e50.htm",
+            "description": "复试时间：9月19日上午8:30开始",
+            "deadline": "2025-09-15T09:00:00+08:00",
+            "website": "https://cce.ncepu.edu.cn/tztg1/8594bf14899b416097c5b47a514cb2b8.htm",
             "tags": [
                 "211"
             ],
@@ -4528,6 +4528,84 @@
             "website": "http://www.iie.ac.cn/xsjy2020/zxtz2020/202509/t20250911_7965947.html",
             "tags": [
                 "研究院"
+            ],
+            "province": ""
+        },
+        {
+            "name": "东华大学",
+            "institute": "ALL",
+            "description": "各学院（中心）定期对申请信息集中审核，根据申请学生情况及时遴选、确定复试名单、发送复试通知、分批组织复试、择优录取。复试时间预计集中在9月，具体时间及相关安排由学院（中心）自行组织。请关注东华大学研招网及各学院（中心）网站公告",
+            "deadline": "2025-09-23T00:00:00+08:00",
+            "website": "https://yjszs.dhu.edu.cn/2025/0829/c7127a364605/page.htm",
+            "tags": [
+                "211"
+            ],
+            "province": ""
+        },
+        {
+            "name": "上海大学",
+            "institute": "ALL",
+            "description": "我校的推免生复试录取工作一般会在国家推免服务系统开通后几天内结束，请考生尽早报名并及时关注我校官网和招生学院网站",
+            "deadline": "2025-09-20T16:00:00+08:00",
+            "website": "https://yjszs.shu.edu.cn/info/1004/7404.htm",
+            "tags": [
+                "211"
+            ],
+            "province": ""
+        },
+        {
+            "name": "兰州大学",
+            "institute": "ALL",
+            "description": "有意申请兰州大学推荐免试攻读研究生的学生，可登录兰州大学推免生预接收报名系统（https://yjszs.lzu.edu.cn/lzuyjsytms/）填报相关信息，由学院通知审核通过的学生参加考核，考核通过并获得所在学校推免资格的学生",
+            "deadline": "2025-09-22T00:00:00+08:00",
+            "website": "https://yz.lzu.edu.cn/shuoshishengzhaosheng/tuijianmianshi/2025/0903/315679.html",
+            "tags": [
+                "985",
+                "211"
+            ],
+            "province": ""
+        },
+        {
+            "name": "合肥工业大学",
+            "institute": "ALL",
+            "description": "学院将根据上级政策开展考核选拔工作，具体时间及工作安排请关注学院通知。申请人须在“全国推荐免试攻读研究生（免初试、转段）信息公开管理服务系统”正式报名，完成填报志愿、接受复试确认、接受待录取确认等环节，服务系统开放时间请关注中国研究生招生信息网相关公告",
+            "deadline": "2025-09-15T17:00:00+08:00",
+            "website": "http://yjszs.hfut.edu.cn/2025/0902/c13524a314363/page.htm",
+            "tags": [
+                "211"
+            ],
+            "province": ""
+        },
+        {
+            "name": "西南交通大学",
+            "institute": "信息科学与技术学院",
+            "description": "申请加入“信息学院2026届推免意向征集通知群”，群QQ号为：584445645，进群需要用“姓名+本科学校名称”进行验证。此群仅作通知使用",
+            "deadline": "2025-09-18T20:00:00+08:00",
+            "website": "https://mp.weixin.qq.com/s/5vExE01EF5M7ORLiSRw8Lg",
+            "tags": [
+                "211"
+            ],
+            "province": ""
+        },
+        {
+            "name": "华中农业大学",
+            "institute": "信息学院",
+            "description": "预推免",
+            "deadline": "2025-09-15T00:00:00+08:00",
+            "website": "https://coi.hzau.edu.cn/info/1611/52871.htm",
+            "tags": [
+                "211"
+            ],
+            "province": ""
+        },
+        {
+            "name": "南京财经大学",
+            "institute": "计算机与人工智能学院",
+            "description": "复试形式为网络远程复试",
+            "deadline": "2025-09-19T11:00:00+08:00",
+            "website": "https://yjsc.nufe.edu.cn/info/1011/6661.htm",
+            "tags": [
+                "四非"
             ],
             "province": ""
         }
