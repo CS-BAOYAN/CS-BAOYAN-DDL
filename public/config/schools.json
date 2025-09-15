@@ -4608,6 +4608,17 @@
                 "四非"
             ],
             "province": ""
+        },
+        {
+            "name": "武汉理工大学",
+            "institute": "ALL",
+            "description": "考生接到复试通知后，在规定时间内通过教育部推免服务系统确认是否同意复试。\n同意参加我校复试的申请人，在规定时间内，按照招生学院安排参加电话面试、网上面试或实地面试。面试时按招生学院要求携带相关材料。",
+            "deadline": "2025-10-21T00:00:00+08:00",
+            "website": "https://mp.weixin.qq.com/s/p_vAmRvFVbroXZveASwn_g",
+            "tags": [
+                "211"
+            ],
+            "province": ""
         }
     ],
     "camp2024": [
