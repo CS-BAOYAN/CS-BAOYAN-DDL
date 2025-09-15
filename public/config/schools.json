@@ -4619,6 +4619,73 @@
                 "211"
             ],
             "province": ""
+        },
+        {
+            "name": "福州大学",
+            "institute": "计算机与大数据学院软件学院",
+            "description": "我院确定2026年招收直博生、硕士推免生复试工作采用现场机试和现场面试方式进行",
+            "deadline": "2025-09-16T17:00:00+08:00",
+            "website": "https://ccds.fzu.edu.cn/info/1138/11337.htm",
+            "tags": [
+                "211"
+            ],
+            "province": ""
+        },
+        {
+            "name": "电子科技大学",
+            "institute": "（深圳）高等研究院",
+            "description": "复试采用现场面试形式，分组安排将在QQ群公布",
+            "deadline": "2025-09-15T20:00:00+08:00",
+            "website": "https://mp.weixin.qq.com/s/iR90rDlnuJrJbxUp-Th3TQ",
+            "tags": [
+                "985",
+                "211"
+            ],
+            "province": ""
+        },
+        {
+            "name": "内蒙古大学",
+            "institute": "计算机学院（软件学院）、人工智能学院",
+            "description": "9.23复试",
+            "deadline": "2025-09-23T00:00:00+08:00",
+            "website": "https://ccs.imu.edu.cn/info/1051/2580.htm",
+            "tags": [
+                "211"
+            ],
+            "province": ""
+        },
+        {
+            "name": "青岛大学",
+            "institute": "ALL",
+            "description": "复试工作原则上在9月22日-10月15日完成，具体复试安排由学院自行确定。",
+            "deadline": "2025-10-21T00:00:00+08:00",
+            "website": "https://grad.qdu.edu.cn/info/1118/4229.htm",
+            "tags": [
+                "四非"
+            ],
+            "province": ""
+        },
+        {
+            "name": "北方工业大学",
+            "institute": "人工智能与计算机学院",
+            "description": "略神的母校\n复试时间为2025年9月下旬—10月中旬，各批次具体复试安排以研招网复试通知为准。",
+            "deadline": "2025-10-21T00:00:00+08:00",
+            "website": "https://csci.ncut.edu.cn/info/1086/4763.htm",
+            "tags": [
+                "四非"
+            ],
+            "province": ""
+        },
+        {
+            "name": "武汉理工大学",
+            "institute": "计算机与人工智能学院",
+            "description": "预计时间为2025年9月19日（如有调整另行通知），具体安排由考务组通过电子邮箱提前告知",
+            "deadline": "2025-09-18T17:00:00+08:00",
+            "website": "http://cst.whut.edu.cn/yjsjy/zsxx/202509/t20250915_1349104.shtml",
+            "tags": [
+                "211"
+            ],
+            "province": ""
         }
     ],
     "camp2024": [
@@ -11299,6 +11366,19 @@
                 "985",
                 "211"
             ]
+        }
+    ],
+    "camp2026": [
+        {
+            "name": "北京工业大学",
+            "institute": "所有学院",
+            "description": "_No response_",
+            "deadline": "2025-09-21T00:00:00+08:00",
+            "website": "https://yanzhao.bjut.edu.cn/info/1019/17801.htm",
+            "tags": [
+                "211"
+            ],
+            "province": ""
         }
     ]
 }
