@@ -4686,6 +4686,39 @@
                 "211"
             ],
             "province": ""
+        },
+        {
+            "name": "郑州大学",
+            "institute": "计算机与人工智能学院、软件学院",
+            "description": "面试时间：按照中国研究生招生信息网系统报名时间确定。",
+            "deadline": "2025-09-20T18:00:00+08:00",
+            "website": "https://www7.zzu.edu.cn/csai/info/1147/3573.htm",
+            "tags": [
+                "211"
+            ],
+            "province": ""
+        },
+        {
+            "name": "上海大学",
+            "institute": "未来技术学院",
+            "description": "我院暂定于2025年9月18日（周四）全天开展复试工作，具体复试时间以复试通知为准",
+            "deadline": "2025-09-18T00:00:00+08:00",
+            "website": "https://ai.shu.edu.cn/info/1087/3568.htm",
+            "tags": [
+                "211"
+            ],
+            "province": ""
+        },
+        {
+            "name": "太原理工大学",
+            "institute": "计算机科学与技术学院（大数据学院）",
+            "description": "研究生院通过该“推免系统”和学院报送的接收名单审核推免生报名志愿，对符合申请条件者发送复试通知、待录取通知",
+            "deadline": "2025-09-20T00:00:00+08:00",
+            "website": "https://ccst.tyut.edu.cn/info/2123/13911.htm",
+            "tags": [
+                "211"
+            ],
+            "province": ""
         }
     ],
     "camp2024": [
