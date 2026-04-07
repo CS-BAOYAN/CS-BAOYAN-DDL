@@ -4730,6 +4730,17 @@
                 "四非"
             ],
             "province": ""
+        },
+        {
+            "name": "海南大学",
+            "institute": "all",
+            "description": "_No response_",
+            "deadline": "暂无",
+            "website": "https://gs.hainanu.edu.cn/info/1024/7882.htm",
+            "tags": [
+                "211"
+            ],
+            "province": ""
         }
     ],
     "camp2024": [
