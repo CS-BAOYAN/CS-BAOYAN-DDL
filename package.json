@@ -1,49 +1,30 @@
 {
   "name": "cs-baoyan-ddl",
-  "version": "0.1.0",
   "private": true,
+  "version": "2.0.0",
+  "type": "module",
   "scripts": {
-    "serve": "vue-cli-service serve",
-    "build": "vue-cli-service build",
-    "lint": "vue-cli-service lint",
-    "deploy": "gh-pages -d dist"
+    "predev": "tsx scripts/build-logos.ts",
+    "dev": "vite",
+    "prebuild": "tsx scripts/build-logos.ts",
+    "build": "vite build",
+    "preview": "vite preview --port 4173",
+    "deploy": "pnpm build && gh-pages -d dist",
+    "check": "svelte-check --tsconfig ./tsconfig.json"
   },
   "dependencies": {
-    "@element-plus/icons-vue": "^2.3.1",
-    "core-js": "^3.8.3",
-    "cs-baoyan-ddl": "file:",
-    "element-plus": "^2.9.3",
-    "vue": "^3.2.13"
+    "lucide-svelte": "^1.0.1"
   },
   "devDependencies": {
-    "@babel/core": "^7.12.16",
-    "@babel/eslint-parser": "^7.12.16",
-    "@vue/cli-plugin-babel": "~5.0.0",
-    "@vue/cli-plugin-eslint": "~5.0.0",
-    "@vue/cli-service": "~5.0.0",
-    "eslint": "^7.32.0",
-    "eslint-plugin-vue": "^8.0.3",
-    "gh-pages": "^6.1.1"
-  },
-  "eslintConfig": {
-    "root": true,
-    "env": {
-      "node": true
-    },
-    "extends": [
-      "plugin:vue/vue3-essential",
-      "eslint:recommended"
-    ],
-    "parserOptions": {
-      "parser": "@babel/eslint-parser",
-      "requireConfigFile": false
-    },
-    "rules": {}
-  },
-  "browserslist": [
-    "> 1%",
-    "last 2 versions",
-    "not dead",
-    "not ie 11"
-  ]
+    "@sveltejs/vite-plugin-svelte": "^5.0.3",
+    "@tailwindcss/vite": "^4.0.0",
+    "@types/node": "^22.10.0",
+    "gh-pages": "^6.2.0",
+    "svelte": "^5.20.0",
+    "svelte-check": "^4.1.4",
+    "tailwindcss": "^4.0.0",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.2",
+    "vite": "^6.0.7"
+  }
 }
