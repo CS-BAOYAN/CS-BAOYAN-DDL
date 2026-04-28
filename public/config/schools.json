@@ -11434,6 +11434,74 @@
                 "211"
             ],
             "province": ""
+        },
+        {
+            "name": "北京中关村学院",
+            "institute": "北京中关村学院",
+            "description": "_No response_",
+            "deadline": "2026-05-05T12:00:00+08:00",
+            "website": "https://www.bza.edu.cn/detail/acld06aavyiaa8lwsi69ofwtxdund3k5",
+            "tags": [
+                "联培"
+            ],
+            "province": ""
+        },
+        {
+            "name": "香港科技大学（广州）",
+            "institute": "未来技术学院（红鸟硕士项目）",
+            "description": "红鸟硕士项目（Red Bird MPhil），全日制研究型硕士（2年制），本科专业不限，围绕未来医疗健康、可持续生活、智能工业化、低空经济、海洋技术与经济五个方向招生；滚动遴选与面试，无统一录取时间。学费4万/年，全日制研究型硕士可获全额奖学金1万元/月（最多24个月）。",
+            "deadline": "暂无",
+            "website": "https://cft.hkust-gz.edu.cn/admission",
+            "tags": [
+                "四非"
+            ],
+            "province": ""
+        },
+        {
+            "name": "上海创智学院",
+            "institute": "上海创智学院",
+            "description": "人工智能方向2026年夏令营博士生遴选，面向北大、清华、复旦、上交、浙大、中科大、人大、中山大等31所高校录取的2027级博士生（含直博、硕博、普博）。拟邀请400人入营。考核含材料评审、提示工程、数理逻辑笔试、48小时实训、代码机试、综合面试。学院不收学费，提供助学金奖学金，毕业生可落户上海，颁发学院证书及学籍所在高校学位证书。",
+            "deadline": "2026-05-06T00:00:00+08:00",
+            "website": "https://admissions.sii.edu.cn",
+            "tags": [
+                "联培"
+            ],
+            "province": ""
+        },
+        {
+            "name": "中国科学院",
+            "institute": "空天信息创新研究院",
+            "description": "中国科学院大学2026年度全国大学生\"空天信息技术\"春令营，由空天院主办，采用线上形式，面向电子信息类、遥感地信类、光电宇航类等相关学科的国内优秀理工本科生（专业排名前15%，对有突出科研经历者可放宽）。涵盖空天电子、雷达信号处理、遥感、宇航等方向的前沿专题讲座与师生交流。",
+            "deadline": "2026-05-19T00:00:00+08:00",
+            "website": "https://mp.weixin.qq.com/s/hwrkwrhdcsJ5A1gfIYNwyw",
+            "tags": [
+                "研究院"
+            ],
+            "province": ""
+        },
+        {
+            "name": "清华大学",
+            "institute": "人工智能学院",
+            "description": "2026年清华大学人工智能学院大学生学术交流日，2026年5月15日-5月17日举办，主要面向大三本科生及硕士生（其他年级亦欢迎）。活动包括大学生学术交流宣讲会、AI学院开放日、青年教师/学生学术Talk、AI理论知识竞赛，以及围绕空间智能、大模型Agent、AI+Science三大主题的Workshop。不收报名费，为京外学生报销在京住宿及往返车票。",
+            "deadline": "2026-04-30T17:00:00+08:00",
+            "website": "https://collegeai.tsinghua.edu.cn/info/1043/1281.htm",
+            "tags": [
+                "TOP2"
+            ],
+            "province": ""
+        }
+    ],
+    "camp2027": [
+        {
+            "name": "北京中关村学院",
+            "institute": "北京中关村学院",
+            "description": "_No response_",
+            "deadline": "2026-05-05T12:00:00+08:00",
+            "website": "https://www.bza.edu.cn/detail/acld06aavyiaa8lwsi69ofwtxdund3k5",
+            "tags": [
+                "联培"
+            ],
+            "province": ""
         }
     ]
 }
