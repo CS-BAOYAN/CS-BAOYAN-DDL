@@ -11,26 +11,26 @@ jobs:
 
     steps:
     - name: Checkout Listener repository
-      uses: actions/checkout@v2
+      uses: actions/checkout@v4
 
     - name: Clone BoardCaster repository
       run: git clone https://github.com/CS-BAOYAN/BoardCaster.git
 
-    - name: Copy and rename data.json to public/config/schools.json
+    - name: Copy data.json to src/data/schools.json
       run: |
-        cp BoardCaster/data.json public/config/schools.json
+        cp BoardCaster/data.json src/data/schools.json
 
     - name: Commit and push changes if there are any
       id: commit
       run: |
         git config --global user.name 'github-actions'
         git config --global user.email 'github-actions@github.com'
-        git add public/config/schools.json
+        git add src/data/schools.json
         if git diff-index --quiet HEAD; then
           echo "No changes to commit"
           echo "committed=false" >> $GITHUB_OUTPUT
         else
-          git commit -m "Update public/config/schools.json from BoardCaster"
+          git commit -m "Update src/data/schools.json from BoardCaster"
           git push
           echo "committed=true" >> $GITHUB_OUTPUT
         fi
