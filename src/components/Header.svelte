@@ -107,7 +107,7 @@
     </button>
 
     <a
-      href="https://github.com/CS-BAOYAN/CSBaoyanGuide"
+      href="https://github.com/CS-BAOYAN/CS-BAOYAN-DDL"
       target="_blank"
       rel="noopener noreferrer"
       class="hidden md:flex surface-2 hover:surface-3 border border-line rounded-md p-1.5 transition"
